@@ -1,5 +1,5 @@
 --- 
-title: "Ciência de dados na Escola Pública "
+title: "Ciência de dados na Escola Pública"
 author: "Karla Patrícia na Escola Pública"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

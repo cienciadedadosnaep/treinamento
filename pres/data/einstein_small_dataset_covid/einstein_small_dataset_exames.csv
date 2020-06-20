@@ -1,0 +1,2068 @@
+id_paciente|dt_coleta|de_origem|de_exame|de_analito|de_resultado|cd_unidade|de_valor_referencia
+202018|13/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202025|11/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.07|AU/ml|<=0.90
+202025|11/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+202025|11/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202025|11/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.33|AU/ml|<=0.90
+202025|11/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.95|x10^6/uL|4.30 a 5.70
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|253|x10^3/uL|
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.6|fL|6.5 a 15.0
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|HCM|30.3|pg|26.0 a 34.0
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|78|µL|50 a 500
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.5|%|
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|43.7|%|39.0 a 50.0
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3055|µL|1700 a 8000
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6500|µL|3500 a 10500
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|VCM|88.3|fL|81.0 a 95.0
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|42.5|%|
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2762|µL|900 a 2900
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.8|%|
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|52|µL|0 a 100
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|RDW|13.0|%|11.5 a 16.5
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|552|µL|300 a 900
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.0|g/dL|13.5 a 17.5
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|47.0|%|
+202025|19/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.2|%|
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.50|x10^3/uL|
+202025|19/05/2020|HOSP|Hemograma com Plaquetas|CHCM|34.3|g/dL|31.0 a 36.0
+202078|24/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202107|30/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|7530|µL|3500 a 10500
+202133|29/05/2020|HOSP|Dosagem de Gama GT|Gama GT|22|U/L|8 a 61
+202133|29/05/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12| |NULL|
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|4247|µL|1700 a 8000
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|38|µL|0 a 100
+202133|29/05/2020|HOSP|Contagem de Plaquetas|Volume Médio Plaquetário|10.1|fL|6.5 a 15.0
+202133|29/05/2020|HOSP|Dosagem de Proteínas Totais e Frações|Albumina|4.4|g/dL|3.5 a 5.2
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|VCM|86.7|fL|81.0 a 95.0
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.3|%|
+202133|29/05/2020|HOSP|Dosagem de Ferritina|Ferritina|240.00|ng/mL|22.00 a 491.00
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|7.53|x10^3/uL|
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|843|µL|300 a 900
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|173|µL|50 a 500
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.66|x10^6/uL|4.30 a 5.70
+202133|29/05/2020|HOSP|Dosagem de Uréia|Uréia|36|mg/dL|17 a 49
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|CHCM|34.4|g/dL|31.0 a 36.0
+202133|29/05/2020|HOSP|Dosagem de TGP|TGP|10|U/L|10 a 50
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.9|g/dL|13.5 a 17.5
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|RDW|12.1|%|11.5 a 16.5
+202133|29/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|79|%|70 a 100
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|40.4|%|39.0 a 50.0
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|11.2|%|
+202133|29/05/2020|HOSP|Dosagem de Potássio|Potássio|4.6|mEq/L|3.5 a 5.0
+202133|29/05/2020|HOSP|Tempo de Protrombina|RNI|1.15|NULL|0.96 a 1.30
+202133|29/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|58|U/L|40 a 129
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|56.4|%|
+202133|29/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|29.6|%|
+202133|29/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|HCM|29.8|pg|26.0 a 34.0
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.1|fL|6.5 a 15.0
+202133|29/05/2020|HOSP|Dosagem de Sódio|Sódio|140|mEq/L|135 a 145
+202133|29/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|85|mg/dL|70 a 99
+202133|29/05/2020|HOSP|TTPA|TTPA segundos|33.1|s|25.6 a 35.5
+202133|29/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.11|mg/dL|0.70 a 1.20
+202133|29/05/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.4|g/dL|3.5 a 5.2
+202133|29/05/2020|HOSP|Dosagem de Magnésio|Magnésio|1.6|mEq/L|1.3 a 2.1
+202133|29/05/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.17|NULL|0.90 a 1.25
+202133|29/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|233|x10^3/uL|
+202133|29/05/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12|391|pg/mL|197 a 771
+202133|29/05/2020|HOSP|Contagem de Plaquetas|Plaquetas|233|x10^3/uL|
+202133|29/05/2020|HOSP|Dosagem de TGO|TGO|19|U/L|<=40
+202133|29/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2229|µL|900 a 2900
+202229|14/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1932|µL|900 a 2900
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Plaquetas|263|x10^3/uL|
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|11640|µL|3500 a 10500
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Hematócrito|38.4|%|35.0 a 45.0
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.4|fL|6.5 a 15.0
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|8695|µL|1700 a 8000
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|VCM|88.3|fL|82.0 a 98.0
+202251|06/06/2020|HOSP|Dosagem de Uréia|Uréia|26|mg/dL|17 a 49
+202251|06/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.7|%|
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos|16.6|%|
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|163|µL|50 a 500
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.6|%|
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos|11.64|x10^3/uL|
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|HCM|32.2|pg|26.0 a 34.0
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|CHCM|36.5|g/dL|31.0 a 36.0
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.35|x10^6/uL|3.90 a 5.00
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.4|%|
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|RDW|12.2|%|11.5 a 16.5
+202251|06/06/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.0|g/dL|12.0 a 15.5
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Monócitos #|780|µL|300 a 900
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|74.7|%|
+202251|06/06/2020|HOSP|Hemograma Contagem Auto|Basófilos #|70|µL|0 a 100
+202274|30/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202281|04/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.32|AU/ml|<=0.90
+202281|04/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|1.12|AU/ml|<=0.90
+202281|05/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202281|12/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202281|20/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.65|AU/ml|<=0.90
+202281|20/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.94|AU/ml|<=0.90
+202281|24/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202285|02/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202285|13/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202327|05/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202327|15/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202331|18/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202331|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.38|AU/ml|<=0.90
+202331|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+202331|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+202331|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.62|AU/ml|<=0.90
+202527|02/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202538|14/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202577|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202598|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.08|AU/ml|<=0.90
+202598|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+202598|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.50|AU/ml|<=0.90
+202598|18/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+202598|19/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.4|mg/dL|0.0 a 0.3
+202598|19/05/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+202598|19/05/2020|HOSP|Urina Tipo I|pH|5.0|NULL|4.6 a 8.0
+202598|19/05/2020|HOSP|Dosagem de Uréia|Uréia|32|mg/dL|17 a 49
+202598|19/05/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|167|x10^3/uL|
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|21|µL|0 a 100
+202598|19/05/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+202598|19/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.93|mg/dL|0.70 a 1.20
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|4170|µL|3500 a 10500
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|359|µL|300 a 900
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1868|µL|900 a 2900
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+202598|19/05/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+202598|19/05/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+202598|19/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|51|U/L|40 a 129
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|44.8|%|
+202598|19/05/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.44|x10^6/uL|4.30 a 5.70
+202598|19/05/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+202598|19/05/2020|HOSP|Dosagem de TGO|TGO|24|U/L|<=40
+202598|19/05/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|4.17|x10^3/uL|
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|58|µL|50 a 500
+202598|19/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+202598|19/05/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|104|mg/dL|70 a 99
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|HCM|31.8|pg|26.0 a 34.0
+202598|19/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|104|mg/dL|70 a 99
+202598|19/05/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.6|g/dL|3.5 a 5.2
+202598|19/05/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.6|%|
+202598|19/05/2020|HOSP|Urina Tipo I|Leucócitos Urina|3000|/mL|<=10000
+202598|19/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|1.2|mg/dL|0.1 a 0.9
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.1|g/dL|13.5 a 17.5
+202598|19/05/2020|HOSP|Dosagem de Gama GT|Gama GT|23|U/L|8 a 61
+202598|19/05/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+202598|19/05/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|CHCM|35.0|g/dL|31.0 a 36.0
+202598|19/05/2020|HOSP|Urina Tipo I|Densidade|1026|NULL|1015 a 1025
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.7|fL|6.5 a 15.0
+202598|19/05/2020|HOSP|Urina Tipo I|Hemácias Urina|7000|/mL|<=10000
+202598|19/05/2020|HOSP|Dosagem de Proteínas Totais e Frações|Albumina|4.6|g/dL|3.5 a 5.2
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|44.7|%|
+202598|19/05/2020|HOSP|Dosagem de CPK|CPK|147|U/L|20 a 200
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|1864|µL|1700 a 8000
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|RDW|14.0|%|11.5 a 16.5
+202598|19/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.4|%|
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|40.3|%|39.0 a 50.0
+202598|19/05/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+202598|19/05/2020|HOSP|Dosagem de TGP|TGP|28|U/L|10 a 50
+202598|19/05/2020|HOSP|Dosagem de Ferritina|Ferritina|249.00|ng/mL|22.00 a 491.00
+202598|19/05/2020|HOSP|Hemograma com Plaquetas|VCM|90.8|fL|81.0 a 95.0
+202598|19/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|1.6|mg/dL|0.1 a 1.2
+202598|19/05/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|104|NULL|
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|410|µL|300 a 900
+202598|28/05/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase|34|U/L|13 a 60
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.9|fL|6.5 a 15.0
+202598|28/05/2020|HOSP|Dosagem de TGP|TGP|19|U/L|10 a 50
+202598|28/05/2020|HOSP|Dosagem de TGO|TGO|21|U/L|<=40
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|46.5|%|
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|200|x10^3/uL|
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.4|%|
+202598|28/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.81|x10^6/uL|4.30 a 5.70
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.78|x10^3/uL|
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|44.5|%|
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.2|g/dL|13.5 a 17.5
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2688|µL|1700 a 8000
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|29|µL|0 a 100
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2572|µL|900 a 2900
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|RDW|13.4|%|11.5 a 16.5
+202598|28/05/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase| |NULL|
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|7.1|%|
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|HCM|31.6|pg|26.0 a 34.0
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|CHCM|35.0|g/dL|31.0 a 36.0
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+202598|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|81|µL|50 a 500
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|43.4|%|39.0 a 50.0
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5780|µL|3500 a 10500
+202598|28/05/2020|HOSP|Hemograma com Plaquetas|VCM|90.2|fL|81.0 a 95.0
+202712|05/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202732|03/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202732|08/03/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|102|NULL|
+202732|08/03/2020|HOSP|Urina Tipo I|Leucócitos Urina|5000|/mL|<=10000
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.5|%|
+202732|08/03/2020|HOSP|Dosagem de TGP|TGP|21|U/L|10 a 50
+202732|08/03/2020|HOSP|Dosagem de Potássio|Potássio|3.9|mEq/L|3.5 a 5.0
+202732|08/03/2020|HOSP|Urina Tipo I|pH|5.0|NULL|4.6 a 8.0
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.4|g/dL|13.5 a 17.5
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|34.3|%|
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|HCM|27.8|pg|26.0 a 34.0
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2862|µL|1700 a 8000
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|80|µL|50 a 500
+202732|08/03/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12| |NULL|
+202732|08/03/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12|478|pg/mL|197 a 771
+202732|08/03/2020|HOSP|Dosagem de Magnésio|Magnésio|1.7|mEq/L|1.3 a 2.1
+202732|08/03/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase|37|U/L|13 a 60
+202732|08/03/2020|HOSP|Urina Tipo I|Aspecto|Turvo|NULL|Límpido
+202732|08/03/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+202732|08/03/2020|HOSP|Dosagem de Uréia|Uréia|39|mg/dL|17 a 49
+202732|08/03/2020|HOSP|Dosagem de Ferritina|Ferritina|211.00|ng/mL|22.00 a 491.00
+202732|08/03/2020|HOSP|Dosagem de Fósforo|Fósforo|3.2|mg/dL|2.5 a 4.5
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|9.7|%|
+202732|08/03/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+202732|08/03/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|39.6|%|39.0 a 50.0
+202732|08/03/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase| |NULL|
+202732|08/03/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|102|mg/dL|70 a 99
+202732|08/03/2020|HOSP|Dosagem de Sódio|Sódio|138|mEq/L|135 a 145
+202732|08/03/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+202732|08/03/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|RDW|13.1|%|11.5 a 16.5
+202732|08/03/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+202732|08/03/2020|HOSP|Urina Tipo I|Hemácias Urina|<1000|/mL|<=10000
+202732|08/03/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.5|mg/dL|0.1 a 1.2
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.82|x10^6/uL|4.30 a 5.70
+202732|08/03/2020|HOSP|Dosagem de TGO|TGO|19|U/L|0 a 40
+202732|08/03/2020|HOSP|Urina Tipo I|Densidade|1029|NULL|1015 a 1025
+202732|08/03/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.3|mg/dL|0.1 a 0.9
+202732|08/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5340|µL|3500 a 10500
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|VCM|82.2|fL|81.0 a 95.0
+202732|08/03/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+202732|08/03/2020|HOSP|Urina Tipo I|Cristais|Urato Amorfo --+|NULL|Ausentes
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|11|µL|0 a 100
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1832|µL|900 a 2900
+202732|08/03/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+202732|08/03/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+202732|08/03/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+202732|08/03/2020|HOSP|Dosagem de Gama GT|Gama GT|27|U/L|8 a 61
+202732|08/03/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.88|mg/dL|0.70 a 1.20
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|212|x10^3/uL|
+202732|08/03/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+202732|08/03/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.34|x10^3/uL|
+202732|08/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|92|mg/dL|70 a 99
+202732|08/03/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|53.6|%|
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|CHCM|33.8|g/dL|31.0 a 36.0
+202732|08/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.6|fL|6.5 a 15.0
+202732|08/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|518|µL|300 a 900
+202732|14/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202732|27/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|27.24|AU/ml|<=0.90
+202732|27/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202732|27/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.81|AU/ml|<=0.90
+202771|06/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202771|13/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202771|25/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+202783|11/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+202874|13/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+202878|13/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza B,  teste rápido|Negativo|NULL|Negativo
+202878|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+202878|13/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza A, teste rápido|Negativo|NULL|Negativo
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|38|µL|50 a 500
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2083|µL|900 a 2900
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Basófilos #|13|µL|0 a 100
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Monócitos #|551|µL|300 a 900
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.4|g/dL|13.5 a 17.5
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.7|%|
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|57.6|%|
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Hemácias|5.22|x10^6/uL|4.30 a 5.70
+202889|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|1.39|AU/ml|<=0.90
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.6|%|
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.4|fL|6.5 a 15.0
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.33|x10^3/uL|
+202889|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Reagente|NULL|Não Reagente
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3646|µL|1700 a 8000
+202889|02/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos|32.9|%|
+202889|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Hematócrito|45.7|%|39.0 a 50.0
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|CHCM|33.7|g/dL|31.0 a 36.0
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|RDW|12.1|%|11.5 a 16.5
+202889|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.76|AU/ml|<=0.90
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Plaquetas|283|x10^3/uL|
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|VCM|87.5|fL|81.0 a 95.0
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6330|µL|3500 a 10500
+202889|02/06/2020|HOSP|Hemograma com Plaquetas|HCM|29.5|pg|26.0 a 34.0
+202889|03/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.1|%|
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|214|x10^3/uL|
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|70.8|%|
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|11010|µL|3500 a 10500
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|936|µL|300 a 900
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|99|µL|50 a 500
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.5|g/dL|31.0 a 36.0
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.82|x10^6/uL|4.30 a 5.70
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|11.01|x10^3/uL|
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|7795|µL|1700 a 8000
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.9|%|
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.5|%|
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.8|g/dL|13.5 a 17.5
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.0|fL|81.0 a 95.0
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|11|µL|0 a 100
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2169|µL|900 a 2900
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|42.9|%|39.0 a 50.0
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.9|fL|6.5 a 15.0
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.4|%|11.5 a 16.5
+203014|19/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|19.7|%|
+203014|19/04/2020|HOSP|Hemograma com Plaquetas|HCM|30.7|pg|26.0 a 34.0
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.6|g/dL|31.0 a 36.0
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|15.35|x10^3/uL|
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|VCM|87.6|fL|81.0 a 95.0
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|92|µL|50 a 500
+203014|21/04/2020|HOSP|TTPA|TTPA segundos|26.0|s|25.6 a 35.5
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|7.6|%|
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.85|x10^6/uL|4.30 a 5.70
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|1827|µL|300 a 900
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.1|%|
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|12249|µL|1700 a 8000
+203014|21/04/2020|HOSP|TTPA|Relação (Paciente/Normal)|0.92|NULL|0.90 a 1.25
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|HCM|30.3|pg|26.0 a 34.0
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.7|g/dL|13.5 a 17.5
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|79.8|%|
+203014|21/04/2020|HOSP|TP POCT|RNI|1.20|NULL|0.96 a 1.30
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|15|µL|0 a 100
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1167|µL|900 a 2900
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.4|%|11.5 a 16.5
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|15350|µL|3500 a 10500
+203014|21/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|11.9|%|
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|221|x10^3/uL|
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.7|fL|6.5 a 15.0
+203014|21/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|42.5|%|39.0 a 50.0
+203014|21/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.6|%|
+203014|29/01/2020|HOSP|Dosagem de CPK|CPK|113|U/L|20 a 200
+203014|29/01/2020|HOSP|Dosagem de TGP|TGP|17|U/L|10 a 50
+203014|29/01/2020|HOSP|Dosagem de Gama GT|Gama GT|27|U/L|8 a 61
+203014|29/01/2020|HOSP|Dosagem de TGO|TGO|17|U/L|0 a 40
+203014|29/01/2020|HOSP|Dosagem de Ferritina|Ferritina|332.00|ng/mL|22.00 a 491.00
+203033|06/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203040|07/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203109|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203109|20/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+203109|20/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.54|AU/ml|<=0.90
+203109|20/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.60|AU/ml|<=0.90
+203109|20/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+203113|11/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|4425|µL|900 a 2900
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|HCM|32.3|pg|26.0 a 34.0
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|58.3|%|
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|171|µL|50 a 500
+203113|20/04/2020|HOSP|Dosagem de Hematócrito|Hematócrito|26.3|%|35.0 a 45.0
+203113|20/04/2020|HOSP|Dosagem de Sódio|Sódio|138|mEq/L|135 a 145
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|11.1|g/dL|12.0 a 15.5
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|32.0|%|35.0 a 45.0
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.5|%|11.5 a 16.5
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.7|g/dL|31.0 a 36.0
+203113|20/04/2020|HOSP|Dosagem de Hemoglobina|Hemoglobina|9.1|g/dL|12.0 a 15.5
+203113|20/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|7678|µL|1700 a 8000
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|VCM|93.0|fL|82.0 a 98.0
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.3|%|
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|856|µL|300 a 900
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.5|%|
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|3.44|x10^6/uL|3.90 a 5.00
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|13.17|x10^3/uL|
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|40|µL|0 a 100
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|147|x10^3/uL|
+203113|20/04/2020|HOSP|Dosagem de Uréia|Uréia|37|mg/dL|17 a 49
+203113|20/04/2020|HOSP|Tempo de Protrombina|TP, Atividade|63|%|70 a 100
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|33.6|%|
+203113|20/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+203113|20/04/2020|HOSP|TTPA|TTPA segundos|25.6|s|25.6 a 35.5
+203113|20/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.81|mg/dL|0.50 a 0.90
+203113|20/04/2020|HOSP|Dosagem de Potássio|Potássio|4.0|mEq/L|3.5 a 5.0
+203113|20/04/2020|HOSP|Contagem de Plaquetas|Volume Médio Plaquetário|11.4|fL|6.5 a 15.0
+203113|20/04/2020|HOSP|Contagem de Plaquetas|Plaquetas|133|x10^3/uL|
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|13170|µL|3500 a 10500
+203113|20/04/2020|HOSP|Tempo de Protrombina|RNI|1.34|NULL|0.96 a 1.30
+203113|20/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.5|fL|6.5 a 15.0
+203113|20/04/2020|HOSP|TTPA|Relação (Paciente/Normal)|0.90|NULL|0.90 a 1.25
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2274|µL|900 a 2900
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|22.5|%|35.0 a 45.0
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|15|µL|50 a 500
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.1|%|
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.0|fL|6.5 a 15.0
+203113|21/04/2020|HOSP|Dosagem de Potássio|Potássio|4.3|mEq/L|3.5 a 5.0
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.6|fL|82.0 a 98.0
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|15.6|%|
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.9|pg|26.0 a 34.0
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|14580|µL|3500 a 10500
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.7|%|
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|977|µL|300 a 900
+203113|21/04/2020|HOSP|Dosagem de Uréia|Uréia|20|mg/dL|17 a 49
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.51|x10^6/uL|3.90 a 5.00
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|77.4|%|
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|CHCM|35.6|g/dL|31.0 a 36.0
+203113|21/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|123|x10^3/uL|
+203113|21/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.82|mg/dL|0.50 a 0.90
+203113|21/04/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|29|µL|0 a 100
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|8.0|g/dL|12.0 a 15.5
+203113|21/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|96|mg/dL|70 a 99
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.6|%|11.5 a 16.5
+203113|21/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|14.58|x10^3/uL|
+203113|21/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|11285|µL|1700 a 8000
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3465|µL|1700 a 8000
+203113|22/04/2020|HOSP|Tempo de Protrombina|RNI|1.37|NULL|0.96 a 1.30
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|28|µL|0 a 100
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|22.2|%|35.0 a 45.0
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|VCM|92.5|fL|82.0 a 98.0
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|38.4|%|
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.4|%|
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|97|µL|50 a 500
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|7.5|g/dL|12.0 a 15.5
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.7|%|11.5 a 16.5
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|108|x10^3/uL|
+203113|22/04/2020|HOSP|TTPA|TTPA segundos|25.7|s|25.6 a 35.5
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.2|fL|6.5 a 15.0
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|50.0|%|
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.2|pg|26.0 a 34.0
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.93|x10^3/uL|
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|9.8|%|
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2661|µL|900 a 2900
+203113|22/04/2020|HOSP|TTPA|Relação (Paciente/Normal)|0.90|NULL|0.90 a 1.25
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|CHCM|33.8|g/dL|31.0 a 36.0
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6930|µL|3500 a 10500
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.4|%|
+203113|22/04/2020|HOSP|Tempo de Protrombina|TP, Atividade|62|%|70 a 100
+203113|22/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|679|µL|300 a 900
+203113|22/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.40|x10^6/uL|3.90 a 5.00
+203215|16/01/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+203215|16/01/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+203215|16/01/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+203215|16/01/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+203215|16/01/2020|HOSP|Urina Tipo I|pH|6,5|NULL|5 a 8
+203215|16/01/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+203215|16/01/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+203215|16/01/2020|HOSP|Urina Tipo I|Esterase|3+ (~500 WBCs/µL)|NULL|Ausente
+203215|16/01/2020|HOSP|Urina Tipo I|Leucócitos Urina|330000|/mL|<=10000
+203215|16/01/2020|HOSP|Urina Tipo I|Densidade|1005|NULL|1015 a 1025
+203215|16/01/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Presente|NULL|Ausente
+203215|16/01/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+203215|16/01/2020|HOSP|Urina Tipo I|Hemácias Urina|3000|/mL|<=10000
+203215|16/01/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+203215|16/01/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+203215|16/01/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+203215|16/01/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+203215|16/01/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Hemácias Urina|10000|/mL|<=10000
+203215|20/04/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Leucócitos Urina|706000|/mL|<=10000
+203215|20/04/2020|HOSP|Urina Tipo I|Cilindros hialinos|+|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Esterase|3+ (~500 WBCs/µL)|NULL|Ausente
+203215|20/04/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Densidade|1015|NULL|1015 a 1025
+203215|20/04/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+203215|20/04/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+203215|20/04/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+203215|20/04/2020|HOSP|Urina Tipo I|pH|6|NULL|5 a 8
+203215|20/04/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+203215|20/04/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+203215|20/04/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+203215|20/04/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+203215|20/04/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+203215|20/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+203215|22/05/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 840
+203215|22/05/2020|HOSP|Diferencial Manual|Eosinófilos|0.0|%|
+203215|22/05/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+203215|22/05/2020|HOSP|Diferencial Manual|Segmentados|54.0|%|
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|37.8|%|35.0 a 45.0
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.8|g/dL|12.0 a 15.5
+203215|22/05/2020|HOSP|Diferencial Manual|Monócitos #|538|µL|300 a 900
+203215|22/05/2020|HOSP|Dosagem de Gama GT|Gama GT|35|U/L|5 a 36
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|CHCM|33.9|g/dL|31.0 a 36.0
+203215|22/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.67|mg/dL|0.50 a 0.90
+203215|22/05/2020|HOSP|Dosagem de Uréia|Uréia|28|mg/dL|17 a 49
+203215|22/05/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|225|x10^3/uL|
+203215|22/05/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+203215|22/05/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|VCM|90.9|fL|82.0 a 98.0
+203215|22/05/2020|HOSP|Diferencial Manual|Linfócitos|34.0|%|
+203215|22/05/2020|HOSP|Diferencial Manual|Linfócitos #|2285|µL|900 a 2900
+203215|22/05/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+203215|22/05/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+203215|22/05/2020|HOSP|Dosagem de Potássio|Potássio|4.2|mEq/L|3.5 a 5.0
+203215|22/05/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+203215|22/05/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6720|µL|3500 a 10500
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.72|x10^3/uL|
+203215|22/05/2020|HOSP|Dosagem de TGP|TGP|34|U/L|0 a 33
+203215|22/05/2020|HOSP|Diferencial Manual|Monócitos|8.0|%|
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|HCM|30.8|pg|26.0 a 34.0
+203215|22/05/2020|HOSP|Dosagem de D-Dímero|D-Dímero|576|ng/mL FEU|<=500
+203215|22/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|81|U/L|35 a 104
+203215|22/05/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+203215|22/05/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+203215|22/05/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 100
+203215|22/05/2020|HOSP|Diferencial Manual|Eosinófilos  #|0|µL|50 a 500
+203215|22/05/2020|HOSP|Dosagem de TGO|TGO|30|U/L|0 a 32
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.7|fL|6.5 a 15.0
+203215|22/05/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|RDW|11.5|%|11.5 a 16.5
+203215|22/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.16|x10^6/uL|3.90 a 5.00
+203215|22/05/2020|HOSP|Diferencial Manual|Segmentados #|3629|µL|1700 a 8000
+203241|31/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|5.9|%|
+203249|18/05/2020|HOSP|Dosagem de Gama GT|Gama GT|15|U/L|5 a 36
+203249|18/05/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|49.8|mm Hg|41.0 a 50.0
+203249|18/05/2020|HOSP|Dosagem de TGP|TGP|16|U/L|0 a 33
+203249|18/05/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|30.1|mmol/L|25.0 a 29.0
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|31.1|%|
+203249|18/05/2020|HOSP|Dosagem de TGO|TGO|21|U/L|0 a 32
+203249|18/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.2|mg/dL|0.1 a 0.9
+203249|18/05/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|38.6|%|40.0 a 70.0
+203249|18/05/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.08|x10^3/uL|
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.9|fL|6.5 a 15.0
+203249|18/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|99|%|70 a 100
+203249|18/05/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.03|NULL|0.90 a 1.25
+203249|18/05/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|28.5|mEq/L|22.0 a 29.0
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|225|x10^3/uL|
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1891|µL|900 a 2900
+203249|18/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.4|mg/dL|0.1 a 1.2
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|RDW|13.2|%|11.5 a 16.5
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|62.0|%|
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.42|x10^6/uL|3.90 a 5.00
+203249|18/05/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|206|U/L|135 a 214
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6080|µL|3500 a 10500
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|HCM|29.6|pg|26.0 a 34.0
+203249|18/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|120|U/L|35 a 104
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|359|µL|300 a 900
+203249|18/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+203249|18/05/2020|HOSP|Dosagem de D-Dímero|D-Dímero|568|ng/mL FEU|<=500
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|38.8|%|35.0 a 45.0
+203249|18/05/2020|HOSP|Dosagem de CPK|CPK|114|U/L|20 a 180
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|CHCM|33.8|g/dL|31.0 a 36.0
+203249|18/05/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|2.5|mEq/L|-4.0 a 4.0
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.7|%|
+203249|18/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203249|18/05/2020|HOSP|Tempo de Protrombina|RNI|1.01|NULL|0.96 a 1.30
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.1|g/dL|12.0 a 15.5
+203249|18/05/2020|HOSP|Dosagem de Sódio|Sódio|138|mEq/L|135 a 145
+203249|18/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.73|mg/dL|0.50 a 0.90
+203249|18/05/2020|HOSP|Dosagem de Uréia|Uréia|14|mg/dL|17 a 49
+203249|18/05/2020|HOSP|TTPA|TTPA segundos|29.2|s|25.6 a 35.5
+203249|18/05/2020|HOSP|Hemograma com Plaquetas|VCM|87.8|fL|82.0 a 98.0
+203249|18/05/2020|HOSP|Dosagem de Potássio|Potássio|3.7|mEq/L|3.5 a 5.0
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|18|µL|0 a 100
+203249|18/05/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.371|NULL|7.320 a 7.430
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|43|µL|50 a 500
+203249|18/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3770|µL|1700 a 8000
+203249|18/05/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|24.2|mm Hg|25.0 a 40.0
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|CHCM|33.2|g/dL|31.0 a 36.0
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|60.8|%|
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203249|28/05/2020|HOSP|Tempo de Protrombina|RNI|1.02|NULL|0.96 a 1.30
+203249|28/05/2020|HOSP|Dosagem de TGO|TGO|23|U/L|0 a 32
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.2|%|
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3441|µL|1700 a 8000
+203249|28/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|97|%|70 a 100
+203249|28/05/2020|HOSP|Dosagem de Uréia|Uréia|22|mg/dL|17 a 49
+203249|28/05/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|11|µL|50 a 500
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|39.1|%|35.0 a 45.0
+203249|28/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|113|U/L|35 a 104
+203249|28/05/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|49.8|mm Hg|41.0 a 50.0
+203249|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|177|x10^3/uL|
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.66|x10^3/uL|
+203249|28/05/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|26.3|mEq/L|22.0 a 29.0
+203249|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|14.0|%|
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.0|g/dL|12.0 a 15.5
+203249|28/05/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|192|U/L|135 a 214
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|VCM|88.3|fL|82.0 a 98.0
+203249|28/05/2020|HOSP|Dosagem de D-Dímero|D-Dímero|677|ng/mL FEU|<=500
+203249|28/05/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|23.9|mm Hg|25.0 a 40.0
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|11|µL|0 a 100
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5660|µL|3500 a 10500
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1404|µL|900 a 2900
+203249|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.2|mg/dL|0.1 a 1.2
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|12.8|fL|6.5 a 15.0
+203249|28/05/2020|HOSP|Dosagem de Gama GT|Gama GT|13|U/L|5 a 36
+203249|28/05/2020|HOSP|Dosagem de Potássio|Potássio|4.0|mEq/L|3.5 a 5.0
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|HCM|29.3|pg|26.0 a 34.0
+203249|28/05/2020|HOSP|Dosagem de CPK|CPK|85|U/L|20 a 180
+203249|28/05/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.08|NULL|0.90 a 1.25
+203249|28/05/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|0.7|mEq/L|-4.0 a 4.0
+203249|28/05/2020|HOSP|Dosagem de TGP|TGP|18|U/L|0 a 33
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.43|x10^6/uL|3.90 a 5.00
+203249|28/05/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.346|NULL|7.320 a 7.430
+203249|28/05/2020|HOSP|Hemograma com Plaquetas|RDW|13.6|%|11.5 a 16.5
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|792|µL|300 a 900
+203249|28/05/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|32.0|%|40.0 a 70.0
+203249|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|24.8|%|
+203249|28/05/2020|HOSP|Dosagem de Sódio|Sódio|135|mEq/L|135 a 145
+203249|28/05/2020|HOSP|TTPA|TTPA segundos|30.8|s|25.6 a 35.5
+203249|28/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.74|mg/dL|0.50 a 0.90
+203249|28/05/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|27.8|mmol/L|25.0 a 29.0
+203249|30/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Detectado|NULL|Não detectado
+203295|01/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+203295|12/03/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.73|x10^3/uL|
+203295|12/03/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|176|U/L|135 a 225
+203295|12/03/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Dosagem de Potássio|Potássio|3.9|mEq/L|3.5 a 5.0
+203295|12/03/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+203295|12/03/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+203295|12/03/2020|HOSP|Urina Tipo I|pH|5.0|NULL|4.6 a 8.0
+203295|12/03/2020|HOSP|Urina Tipo I|Hemácias Urina|<1000|/mL|<=10000
+203295|12/03/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.06|mg/dL|0.70 a 1.20
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1788|µL|900 a 2900
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3163|µL|1700 a 8000
+203295|12/03/2020|HOSP|TTPA|Relação (Paciente/Normal)|0.85|NULL|0.90 a 1.25
+203295|12/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|80|mg/dL|70 a 99
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.74|x10^6/uL|4.30 a 5.70
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|HCM|31.2|pg|26.0 a 34.0
+203295|12/03/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|46|U/L|40 a 129
+203295|12/03/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+203295|12/03/2020|HOSP|Tempo de Protrombina|TP, Atividade|100|%|70 a 100
+203295|12/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|602|µL|300 a 900
+203295|12/03/2020|HOSP|Dosagem de Proteínas Totais e Frações|Albumina|4.2|g/dL|3.5 a 5.2
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5730|µL|3500 a 10500
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.9|%|
+203295|12/03/2020|HOSP|Dosagem de Cálcio Iônico|Cálcio Iônico mmol/L|1.19|mmol/L|1.14 a 1.31
+203295|12/03/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.2|g/dL|3.5 a 5.2
+203295|12/03/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.8|g/dL|13.5 a 17.5
+203295|12/03/2020|HOSP|Dosagem de Gama GT|Gama GT|46|U/L|8 a 61
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|VCM|86.7|fL|81.0 a 95.0
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|RDW|12.2|%|11.5 a 16.5
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|55.2|%|
+203295|12/03/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|241|x10^3/uL|
+203295|12/03/2020|HOSP|Dosagem de TGO|TGO|28|U/L|<=40
+203295|12/03/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+203295|12/03/2020|HOSP|Urina Tipo I|Densidade|1019|NULL|1015 a 1025
+203295|12/03/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|52|µL|0 a 100
+203295|12/03/2020|HOSP|Dosagem de Ferritina|Ferritina|320.00|ng/mL|22.00 a 491.00
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|31.2|%|
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|41.1|%|39.0 a 50.0
+203295|12/03/2020|HOSP|Dosagem de TGP|TGP|46|U/L|10 a 50
+203295|12/03/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+203295|12/03/2020|HOSP|Urina Tipo I|Leucócitos Urina|<1000|/mL|<=10000
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.7|%|
+203295|12/03/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|10.5|%|
+203295|12/03/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Dosagem de Fósforo|Fósforo|2.7|mg/dL|2.5 a 4.5
+203295|12/03/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.9|fL|6.5 a 15.0
+203295|12/03/2020|HOSP|Dosagem de Magnésio|Magnésio|1.8|mEq/L|1.3 a 2.1
+203295|12/03/2020|HOSP|Dosagem de Uréia|Uréia|47|mg/dL|17 a 49
+203295|12/03/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+203295|12/03/2020|HOSP|TTPA|TTPA segundos|25.9|s|27.5 a 38.2
+203295|12/03/2020|HOSP|Hemograma com Plaquetas|CHCM|36.0|g/dL|31.0 a 36.0
+203295|12/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|97|µL|50 a 500
+203295|12/03/2020|HOSP|Tempo de Protrombina|RNI|1.00|NULL|0.96 a 1.30
+203317|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203317|26/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203379|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203473|08/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203473|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|1.54|AU/ml|<=0.90
+203473|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+203473|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Reagente|NULL|Não Reagente
+203473|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.60|AU/ml|<=0.90
+203554|13/02/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase| |NULL|
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Monócitos|9.5|%|
+203554|13/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.3|mg/dL|0.1 a 0.9
+203554|13/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203554|13/02/2020|HOSP|Dosagem de Uréia|Uréia|32|mg/dL|17 a 49
+203554|13/02/2020|HOSP|Dosagem de TGO|TGO|31|U/L|0 a 32
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|VCM|88.4|fL|82.0 a 98.0
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|28|µL|50 a 500
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos|4.62|x10^3/uL|
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.4|%|
+203554|13/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|82|mg/dL|70 a 99
+203554|13/02/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.11|g/dL|3.50 a 5.20
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1312|µL|900 a 2900
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Hematócrito|44.9|%|35.0 a 45.0
+203554|13/02/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.23|mg/dL|0.50 a 0.90
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|HCM|29.7|pg|26.0 a 34.0
+203554|13/02/2020|HOSP|Dosagem de Ferritina|Ferritina|118.00|ng/mL|12.00 a 266.00
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.4|fL|6.5 a 15.0
+203554|13/02/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase|33|U/L|13 a 60
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.1|g/dL|12.0 a 15.5
+203554|13/02/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|57|U/L|35 a 104
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Basófilos #|18|µL|0 a 100
+203554|13/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.5|mg/dL|0.1 a 1.2
+203554|13/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Monócitos #|439|µL|300 a 900
+203554|13/02/2020|HOSP|Dosagem de TGP|TGP|32|U/L|10 a 35
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Hemácias|5.08|x10^6/uL|3.90 a 5.00
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos|28.4|%|
+203554|13/02/2020|HOSP|Dosagem de Gama GT|Gama GT|16|U/L|5 a 36
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2814|µL|1700 a 8000
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|CHCM|33.6|g/dL|31.0 a 36.0
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Plaquetas|244|x10^3/uL|
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|4620|µL|3500 a 10500
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|60.9|%|
+203554|13/02/2020|HOSP|Hemograma com Plaquetas|RDW|13.0|%|11.5 a 16.5
+203554|13/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.6|%|
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|8970|µL|3500 a 10500
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.5|fL|6.5 a 15.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|6539|µL|1700 a 8000
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|HCM|31.3|pg|26.0 a 34.0
+203554|14/03/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|32.8|mm Hg|25.0 a 40.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|27.3|mEq/L|22.0 a 29.0
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.1|%|
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|213|x10^3/uL|
+203554|14/03/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|46.5|mm Hg|41.0 a 50.0
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|RDW|13.9|%|11.5 a 16.5
+203554|14/03/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|28.7|mmol/L|25.0 a 29.0
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|14.9|%|
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|99|µL|50 a 500
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|978|µL|300 a 900
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1337|µL|900 a 2900
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|10.9|%|
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|CHCM|35.0|g/dL|31.0 a 36.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|53.9|%|40.0 a 70.0
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|VCM|89.2|fL|82.0 a 98.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.83|x10^6/uL|3.90 a 5.00
+203554|14/03/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.390|NULL|7.320 a 7.430
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|8.97|x10^3/uL|
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|72.9|%|
+203554|14/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|18|µL|0 a 100
+203554|14/03/2020|HOSP|Dosagem de Uréia|Uréia|31|mg/dL|17 a 49
+203554|14/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.1|g/dL|12.0 a 15.5
+203554|14/03/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|2.4|mEq/L|-4.0 a 4.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|43.1|%|35.0 a 45.0
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+203554|14/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+203585|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos|33.7|%|
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos|8.69|x10^3/uL|
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|4997|µL|1700 a 8000
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Plaquetas|274|x10^3/uL|
+203629|10/06/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+203629|10/06/2020|HOSP|Dosagem de Uréia|Uréia|25|mg/dL|17 a 49
+203629|10/06/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+203629|10/06/2020|HOSP|Urina Tipo I|Hemácias Urina|3500|/mL|<=10000
+203629|10/06/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.0|%|
+203629|10/06/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.0|g/dL|12.0 a 15.5
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2929|µL|900 a 2900
+203629|10/06/2020|HOSP|Urina Tipo I|Leucócitos Urina|5000|/mL|<=10000
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|57.5|%|
+203629|10/06/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|CHCM|33.2|g/dL|31.0 a 36.0
+203629|10/06/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|174|µL|50 a 500
+203629|10/06/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Basófilos #|43|µL|0 a 100
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|HCM|29.3|pg|26.0 a 34.0
+203629|10/06/2020|HOSP|Urina Tipo I|pH|6.0|NULL|4.6 a 8.0
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.7|fL|6.5 a 15.0
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.43|x10^6/uL|3.90 a 5.00
+203629|10/06/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+203629|10/06/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|VCM|88.3|fL|82.0 a 98.0
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|8690|µL|3500 a 10500
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Monócitos #|547|µL|300 a 900
+203629|10/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|Hematócrito|39.1|%|35.0 a 45.0
+203629|10/06/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Hemograma com Plaquetas|RDW|14.8|%|11.5 a 16.5
+203629|10/06/2020|HOSP|Urina Tipo I|Densidade|1020|NULL|1015 a 1025
+203629|10/06/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+203629|10/06/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+203629|10/06/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+203629|10/06/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.3|%|
+203629|21/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+203629|21/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+203629|21/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.01|AU/ml|<=0.90
+203629|21/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.54|AU/ml|<=0.90
+203635|09/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+203635|09/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.01|AU/ml|<=0.90
+203635|09/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.52|AU/ml|<=0.90
+203635|09/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203635|09/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+203638|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203711|09/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Bastonetes #|296|µL|0 a 840
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.57|x10^6/uL|4.30 a 5.70
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.1|g/dL|13.5 a 17.5
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.3|mg/dL|0.1 a 1.2
+203988|02/04/2020|HOSP|Dosagem de TGP|TGP|36|U/L|10 a 50
+203988|02/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|39.8|%|39.0 a 50.0
+203988|02/04/2020|HOSP|Dosagem de Uréia|Uréia|32|mg/dL|17 a 49
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+203988|02/04/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+203988|02/04/2020|HOSP|Dosagem de Gama GT|Gama GT|66|U/L|8 a 61
+203988|02/04/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+203988|02/04/2020|HOSP|Diferencial Manual|Segmentados|76.0|%|
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|156|x10^3/uL|
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5910|µL|3500 a 10500
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Eosinófilos|0.0|%|
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Eosinófilos  #|0|µL|50 a 500
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.9|%|11.5 a 16.5
+203988|02/04/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.91|x10^3/uL|
+203988|02/04/2020|HOSP|Diferencial Manual|Monócitos #|236|µL|300 a 900
+203988|02/04/2020|HOSP|Diferencial Manual|Linfócitos #|591|µL|900 a 2900
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|HCM|30.9|pg|26.0 a 34.0
+203988|02/04/2020|HOSP|Diferencial Manual|Bastonestes|5.0|%|
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Segmentados #|4492|µL|1700 a 8000
+203988|02/04/2020|HOSP|Diferencial Manual|Linfócitos|10.0|%|
+203988|02/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+203988|02/04/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|CHCM|35.4|g/dL|31.0 a 36.0
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.6|fL|6.5 a 15.0
+203988|02/04/2020|HOSP|Diferencial Manual|Monócitos|4.0|%|
+203988|02/04/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Hemograma com Plaquetas|VCM|87.1|fL|81.0 a 95.0
+203988|02/04/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+203988|02/04/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|57|U/L|40 a 129
+203988|02/04/2020|HOSP|Dosagem de TGO|TGO|30|U/L|<=40
+203988|02/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|230|ng/mL FEU|<=500
+203988|02/04/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 100
+203988|02/04/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+203988|02/04/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+203988|03/04/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|51|U/L|40 a 129
+203988|03/04/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|23.5|mEq/L|22.0 a 29.0
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|78.4|%|
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|852|µL|900 a 2900
+203988|03/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|143|x10^3/uL|
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203988|03/04/2020|HOSP|Dosagem de Gama GT|Gama GT|61|U/L|8 a 61
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5760|µL|3500 a 10500
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|363|µL|300 a 900
+203988|03/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.2|mg/dL|0.1 a 1.2
+203988|03/04/2020|HOSP|Dosagem de Uréia|Uréia|31|mg/dL|17 a 49
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.2|%|39.0 a 50.0
+203988|03/04/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.396|NULL|7.320 a 7.430
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.8|%|11.5 a 16.5
+203988|03/04/2020|HOSP|Dosagem de Sódio|Sódio|133|mEq/L|135 a 145
+203988|03/04/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|36.4|mm Hg|25.0 a 40.0
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.0|g/dL|13.5 a 17.5
+203988|03/04/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|-1.0|mEq/L|-4.0 a 4.0
+203988|03/04/2020|HOSP|Dosagem de TGP|TGP|29|U/L|10 a 50
+203988|03/04/2020|HOSP|Dosagem de TGO|TGO|27|U/L|<=40
+203988|03/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+203988|03/04/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|24.7|mmol/L|25.0 a 29.0
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.16|x10^6/uL|4.30 a 5.70
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.5|fL|6.5 a 15.0
+203988|03/04/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|65.5|%|40.0 a 70.0
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.76|x10^3/uL|
+203988|03/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|03/04/2020|HOSP|Dosagem de Magnésio|Magnésio|1.6|mEq/L|1.3 a 2.1
+203988|03/04/2020|HOSP|Dosagem de Potássio|Potássio|4.2|mEq/L|3.5 a 5.0
+203988|03/04/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|214|U/L|135 a 225
+203988|03/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|119|mg/dL|70 a 99
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|17|µL|50 a 500
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.2|pg|26.0 a 34.0
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|14.8|%|
+203988|03/04/2020|HOSP|Dosagem de Ferritina|Ferritina|1309.00|ng/mL|22.00 a 491.00
+203988|03/04/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|38.6|mm Hg|41.0 a 50.0
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.3|%|
+203988|03/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.06|mg/dL|0.70 a 1.20
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|VCM|87.0|fL|81.0 a 95.0
+203988|03/04/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.3|%|
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|4516|µL|1700 a 8000
+203988|03/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|12|µL|0 a 100
+203988|03/04/2020|HOSP|Hemograma com Plaquetas|CHCM|35.9|g/dL|31.0 a 36.0
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.0|g/dL|13.5 a 17.5
+203988|04/04/2020|HOSP|Dosagem de Potássio|Potássio|4.4|mEq/L|3.5 a 5.0
+203988|04/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.12|mg/dL|0.70 a 1.20
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|729|µL|900 a 2900
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5830|µL|3500 a 10500
+203988|04/04/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|0.1|mEq/L|-4.0 a 4.0
+203988|04/04/2020|HOSP|Dosagem de Ferritina|Ferritina|2880.00|ng/mL|22.00 a 491.00
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203988|04/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|279|ng/mL FEU|<=500
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|4641|µL|1700 a 8000
+203988|04/04/2020|HOSP|Dosagem de Uréia|Uréia|26|mg/dL|17 a 49
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|CHCM|35.0|g/dL|31.0 a 36.0
+203988|04/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|04/04/2020|HOSP|Dosagem de Sódio|Sódio|136|mEq/L|135 a 145
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|7.2|%|
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.9|%|11.5 a 16.5
+203988|04/04/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|25.7|mEq/L|22.0 a 29.0
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.7|fL|6.5 a 15.0
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.2|fL|81.0 a 95.0
+203988|04/04/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|47.4|mm Hg|41.0 a 50.0
+203988|04/04/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.353|NULL|7.320 a 7.430
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|12.5|%|
+203988|04/04/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|27.2|mmol/L|25.0 a 29.0
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.5|%|
+203988|04/04/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|39.7|%|40.0 a 70.0
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|37.1|%|39.0 a 50.0
+203988|04/04/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|1|NULL|
+203988|04/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|97|mg/dL|70 a 99
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|29|µL|50 a 500
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|420|µL|300 a 900
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.16|x10^6/uL|4.30 a 5.70
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|12|µL|0 a 100
+203988|04/04/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|28.5|mm Hg|25.0 a 40.0
+203988|04/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|79.6|%|
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.83|x10^3/uL|
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.2|pg|26.0 a 34.0
+203988|04/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|143|x10^3/uL|
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|13|µL|0 a 100
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.7|g/dL|13.5 a 17.5
+203988|05/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.94|mg/dL|0.70 a 1.20
+203988|05/04/2020|HOSP|Dosagem de Sódio|Sódio|138|mEq/L|135 a 145
+203988|05/04/2020|HOSP|Dosagem de Ferritina|Ferritina|1786.00|ng/mL|22.00 a 491.00
+203988|05/04/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|223|U/L|135 a 225
+203988|05/04/2020|HOSP|Dosagem de Uréia|Uréia|23|mg/dL|17 a 49
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.7|fL|81.0 a 95.0
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|151|x10^3/uL|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6580|µL|3500 a 10500
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|53|µL|50 a 500
+203988|05/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|82|mg/dL|70 a 99
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.1|fL|6.5 a 15.0
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.7|g/dL|31.0 a 36.0
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.1|%|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.6|%|39.0 a 50.0
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.58|x10^3/uL|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.1|pg|26.0 a 34.0
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.8|%|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|RDW|12.1|%|11.5 a 16.5
+203988|05/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|5251|µL|1700 a 8000
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|79.8|%|
+203988|05/04/2020|HOSP|Dosagem de Potássio|Potássio|4.4|mEq/L|3.5 a 5.0
+203988|05/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|296|ng/mL FEU|<=500
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|862|µL|900 a 2900
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|401|µL|300 a 900
+203988|05/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|13.1|%|
+203988|05/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.08|x10^6/uL|4.30 a 5.70
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.9|%|
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.11|x10^6/uL|4.30 a 5.70
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.6|fL|6.5 a 15.0
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.9|g/dL|31.0 a 36.0
+203988|06/04/2020|HOSP|Dosagem de Potássio|Potássio|4.6|mEq/L|3.5 a 5.0
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5260|µL|3500 a 10500
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|10.8|%|
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|668|µL|900 a 2900
+203988|06/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|181|x10^3/uL|
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.3|fL|81.0 a 95.0
+203988|06/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.83|mg/dL|0.70 a 1.20
+203988|06/04/2020|HOSP|Dosagem de Uréia|Uréia|21|mg/dL|17 a 49
+203988|06/04/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|246|U/L|135 a 225
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3913|µL|1700 a 8000
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.1|pg|26.0 a 34.0
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|100|µL|50 a 500
+203988|06/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|93|mg/dL|70 a 99
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|11|µL|0 a 100
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|74.4|%|
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.8|g/dL|13.5 a 17.5
+203988|06/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|348|ng/mL FEU|<=500
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.26|x10^3/uL|
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|12.7|%|
+203988|06/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|568|µL|300 a 900
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.7|%|39.0 a 50.0
+203988|06/04/2020|HOSP|Dosagem de Sódio|Sódio|140|mEq/L|135 a 145
+203988|06/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.9|%|11.5 a 16.5
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|215|x10^3/uL|
+203988|07/04/2020|HOSP|Diferencial Manual|Monócitos|7.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Linfócitos|14.0|%|
+203988|07/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.4|mg/dL|0.1 a 1.2
+203988|07/04/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Monócitos #|403|µL|300 a 900
+203988|07/04/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Segmentados #|4205|µL|1700 a 8000
+203988|07/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|364|ng/mL FEU|<=500
+203988|07/04/2020|HOSP|Dosagem de TGP|TGP|76|U/L|10 a 50
+203988|07/04/2020|HOSP|Diferencial Manual|Segmentados|73.0|%|
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|3.96|x10^6/uL|4.30 a 5.70
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|35.3|%|39.0 a 50.0
+203988|07/04/2020|HOSP|Dosagem de Sódio|Sódio|137|mEq/L|135 a 145
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.7|%|11.5 a 16.5
+203988|07/04/2020|HOSP|Dosagem de Potássio|Potássio|4.3|mEq/L|3.5 a 5.0
+203988|07/04/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+203988|07/04/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|220|U/L|40 a 129
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.3|g/dL|13.5 a 17.5
+203988|07/04/2020|HOSP|Dosagem de Gama GT|Gama GT|334|U/L|8 a 61
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5760|µL|3500 a 10500
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.8|g/dL|31.0 a 36.0
+203988|07/04/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|VCM|89.1|fL|81.0 a 95.0
+203988|07/04/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+203988|07/04/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 840
+203988|07/04/2020|HOSP|Dosagem de Uréia|Uréia|14|mg/dL|17 a 49
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.7|fL|6.5 a 15.0
+203988|07/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.2|mg/dL|0.1 a 0.9
+203988|07/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|107|mg/dL|70 a 99
+203988|07/04/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 100
+203988|07/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|07/04/2020|HOSP|Diferencial Manual|Eosinófilos  #|173|µL|50 a 500
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.1|pg|26.0 a 34.0
+203988|07/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.76|x10^3/uL|
+203988|07/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.82|mg/dL|0.70 a 1.20
+203988|07/04/2020|HOSP|Dosagem de TGO|TGO|52|U/L|<=40
+203988|07/04/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+203988|07/04/2020|HOSP|Dosagem de Ferritina|Ferritina|1819.00|ng/mL|22.00 a 491.00
+203988|07/04/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+203988|07/04/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+203988|07/04/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+203988|07/04/2020|HOSP|Diferencial Manual|Linfócitos #|806|µL|900 a 2900
+203988|07/04/2020|HOSP|Diferencial Manual|Eosinófilos|3.0|%|
+203988|08/04/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+203988|08/04/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|212|U/L|135 a 225
+203988|08/04/2020|HOSP|Diferencial Manual|Linfócitos|14.0|%|
+203988|08/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.2|fL|6.5 a 15.0
+203988|08/04/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+203988|08/04/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+203988|08/04/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+203988|08/04/2020|HOSP|Dosagem de Uréia|Uréia|16|mg/dL|17 a 49
+203988|08/04/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+203988|08/04/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+203988|08/04/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+203988|08/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.91|mg/dL|0.70 a 1.20
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|CHCM|33.7|g/dL|31.0 a 36.0
+203988|08/04/2020|HOSP|Diferencial Manual|Eosinófilos  #|62|µL|50 a 500
+203988|08/04/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+203988|08/04/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 100
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6230|µL|3500 a 10500
+203988|08/04/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|VCM|90.7|fL|81.0 a 95.0
+203988|08/04/2020|HOSP|Dosagem de Potássio|Potássio|4.3|mEq/L|3.5 a 5.0
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|241|x10^3/uL|
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.8|%|11.5 a 16.5
+203988|08/04/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.2|%|39.0 a 50.0
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|3.99|x10^6/uL|4.30 a 5.70
+203988|08/04/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+203988|08/04/2020|HOSP|Diferencial Manual|Monócitos #|810|µL|300 a 900
+203988|08/04/2020|HOSP|Diferencial Manual|Segmentados #|4299|µL|1700 a 8000
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.2|g/dL|13.5 a 17.5
+203988|08/04/2020|HOSP|Diferencial Manual|Monócitos|13.0|%|
+203988|08/04/2020|HOSP|Diferencial Manual|Segmentados|69.0|%|
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|HCM|30.6|pg|26.0 a 34.0
+203988|08/04/2020|HOSP|Diferencial Manual|Linfócitos #|872|µL|900 a 2900
+203988|08/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.23|x10^3/uL|
+203988|08/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|119|mg/dL|70 a 99
+203988|08/04/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 840
+203988|08/04/2020|HOSP|Diferencial Manual|Eosinófilos|1.0|%|
+203988|09/04/2020|HOSP|Dosagem de Potássio|Potássio|4.6|mEq/L|3.5 a 5.0
+203988|09/04/2020|HOSP|Diferencial Manual|Linfócitos|13.2|%|
+203988|09/04/2020|HOSP|Diferencial Manual|Eosinófilos  #|132|µL|50 a 500
+203988|09/04/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+203988|09/04/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+203988|09/04/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+203988|09/04/2020|HOSP|Diferencial Manual|Segmentados #|4791|µL|1700 a 8000
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|VCM|90.4|fL|81.0 a 95.0
+203988|09/04/2020|HOSP|Dosagem de Uréia|Uréia|22|mg/dL|17 a 49
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.9|%|11.5 a 16.5
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|255|x10^3/uL|
+203988|09/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+203988|09/04/2020|HOSP|Diferencial Manual|Eosinófilos|2.0|%|
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|HCM|30.9|pg|26.0 a 34.0
+203988|09/04/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.08|x10^6/uL|4.30 a 5.70
+203988|09/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.07|mg/dL|0.70 a 1.20
+203988|09/04/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|111|mg/dL|70 a 99
+203988|09/04/2020|HOSP|Diferencial Manual|Linfócitos #|870|µL|900 a 2900
+203988|09/04/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+203988|09/04/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+203988|09/04/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.2|fL|6.5 a 15.0
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.6|g/dL|13.5 a 17.5
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.59|x10^3/uL|
+203988|09/04/2020|HOSP|Diferencial Manual|Monócitos|8.1|%|
+203988|09/04/2020|HOSP|Diferencial Manual|Basófilos|1.0|%|
+203988|09/04/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6590|µL|3500 a 10500
+203988|09/04/2020|HOSP|Diferencial Manual|Monócitos #|534|µL|300 a 900
+203988|09/04/2020|HOSP|Diferencial Manual|Basófilos #|66|µL|0 a 100
+203988|09/04/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 840
+203988|09/04/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.9|%|39.0 a 50.0
+203988|09/04/2020|HOSP|Diferencial Manual|Segmentados|72.7|%|
+203988|09/04/2020|HOSP|Hemograma com Plaquetas|CHCM|34.1|g/dL|31.0 a 36.0
+203988|09/04/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+203988|16/04/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|169|U/L|135 a 225
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Monócitos|10.5|%|
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|HCM|31.1|pg|26.0 a 34.0
+203988|16/04/2020|HOSP|Dosagem de Uréia|Uréia|18|mg/dL|17 a 49
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos|24.0|%|
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1462|µL|900 a 2900
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.6|%|
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Plaquetas|282|x10^3/uL|
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.6|fL|6.5 a 15.0
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|97|µL|50 a 500
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Hematócrito|39.1|%|39.0 a 50.0
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|RDW|11.6|%|11.5 a 16.5
+203988|16/04/2020|HOSP|Dosagem de Sódio|Sódio|141|mEq/L|135 a 145
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|13.7|g/dL|13.5 a 17.5
+203988|16/04/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.88|mg/dL|0.70 a 1.20
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|CHCM|35.0|g/dL|31.0 a 36.0
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.41|x10^6/uL|4.30 a 5.70
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Basófilos #|43|µL|0 a 100
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.7|%|
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.09|x10^3/uL|
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|VCM|88.7|fL|81.0 a 95.0
+203988|16/04/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6090|µL|3500 a 10500
+203988|16/04/2020|HOSP|Dosagem de Potássio|Potássio|4.5|mEq/L|3.5 a 5.0
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Monócitos #|639|µL|300 a 900
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3849|µL|1700 a 8000
+203988|16/04/2020|HOSP|Dosagem de D-Dímero|D-Dímero|440|ng/mL FEU|<=500
+203988|16/04/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|63.2|%|
+203988|25/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.88|AU/ml|<=0.90
+203988|25/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|17.47|AU/ml|<=0.90
+203992|04/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204017|15/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204021|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|56.5|%|
+204038|08/06/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|-11.1|mEq/L|-4.0 a 4.0
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.4|fL|6.5 a 15.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Monócitos|11.3|%|
+204038|08/06/2020|HOSP|Tempo de Protrombina|RNI|1.07|NULL|0.96 a 1.30
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|HCM|29.8|pg|26.0 a 34.0
+204038|08/06/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|36.3|mm Hg|41.0 a 50.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1461|µL|900 a 2900
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Hematócrito|22.8|%|39.0 a 50.0
+204038|08/06/2020|HOSP|Dosagem de Potássio|Potássio|6.0|mEq/L|3.5 a 5.0
+204038|08/06/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2689|µL|1700 a 8000
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|RDW|15.4|%|11.5 a 16.5
+204038|08/06/2020|HOSP|Dosagem de Uréia|Uréia|122|mg/dL|17 a 49
+204038|08/06/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|15.4|mEq/L|22.0 a 29.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|52|µL|50 a 500
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|VCM|89.4|fL|81.0 a 95.0
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Plaquetas|163|x10^3/uL|
+204038|08/06/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.239|NULL|7.320 a 7.430
+204038|08/06/2020|HOSP|Dosagem de CreatiNINA|Creatinina|3.40|mg/dL|0.70 a 1.20
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|CHCM|33.3|g/dL|31.0 a 36.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Monócitos #|538|µL|300 a 900
+204038|08/06/2020|HOSP|Dosagem de Sódio|Sódio|140|mEq/L|135 a 145
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos|4.76|x10^3/uL|
+204038|08/06/2020|HOSP|Dosagem de TGO|TGO|13|U/L|<=40
+204038|08/06/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.1|mg/dL|0.1 a 1.2
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Linfócitos|30.7|%|
+204038|08/06/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.0|mg/dL|0.0 a 0.3
+204038|08/06/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|16.6|mmol/L|25.0 a 29.0
+204038|08/06/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|131|U/L|40 a 129
+204038|08/06/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+204038|08/06/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|20.5|mm Hg|25.0 a 40.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.4|%|
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|4760|µL|3500 a 10500
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.1|%|
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|7.6|g/dL|13.5 a 17.5
+204038|08/06/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.55|x10^6/uL|4.30 a 5.70
+204038|08/06/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|29.4|%|40.0 a 70.0
+204038|08/06/2020|HOSP|Hemograma Contagem Auto|Basófilos #|19|µL|0 a 100
+204038|08/06/2020|HOSP|Dosagem de TGP|TGP|6|U/L|10 a 50
+204038|08/06/2020|HOSP|Tempo de Protrombina|TP, Atividade|89|%|70 a 100
+204038|10/06/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|60.1|%|40.0 a 70.0
+204038|10/06/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+204038|10/06/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|14.3|mEq/L|22.0 a 29.0
+204038|10/06/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.303|NULL|7.320 a 7.430
+204038|10/06/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|29.6|mm Hg|41.0 a 50.0
+204038|10/06/2020|HOSP|Dosagem de Potássio|Potássio|5.8|mEq/L|3.5 a 5.0
+204038|10/06/2020|HOSP|Dosagem de Uréia|Uréia|118|mg/dL|17 a 49
+204038|10/06/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|15.2|mmol/L|25.0 a 29.0
+204038|10/06/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|34.3|mm Hg|25.0 a 40.0
+204038|10/06/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|-10.7|mEq/L|-4.0 a 4.0
+204038|17/02/2020|HOSP|Tempo de Protrombina|TP, Atividade|89|%|70 a 100
+204038|17/02/2020|HOSP|Tempo de Protrombina|RNI|1.09|NULL|0.96 a 1.30
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|CHCM|31.8|g/dL|31.0 a 36.0
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|VCM|83.6|fL|81.0 a 95.0
+204038|17/02/2020|HOSP|Dosagem de CreatiNINA|Creatinina|2.25|mg/dL|0.70 a 1.20
+204038|17/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|161|mg/dL|70 a 99
+204038|17/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.0|mg/dL|0.1 a 0.9
+204038|17/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos|37.0|%|
+204038|17/02/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+204038|17/02/2020|HOSP|Dosagem de Uréia|Uréia|87|mg/dL|17 a 49
+204038|17/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.1|mg/dL|0.1 a 1.2
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|HCM|26.6|pg|26.0 a 34.0
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Plaquetas|116|x10^3/uL|
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Hematócrito|23.9|%|39.0 a 50.0
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.0|fL|6.5 a 15.0
+204038|17/02/2020|HOSP|Dosagem de Potássio|Potássio|5.9|mEq/L|3.5 a 5.0
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.86|x10^6/uL|4.30 a 5.70
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|RDW|17.9|%|11.5 a 16.5
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|53.6|%|
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|7.6|g/dL|13.5 a 17.5
+204038|17/02/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|92|U/L|40 a 129
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2503|µL|1700 a 8000
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Monócitos #|341|µL|300 a 900
+204038|17/02/2020|HOSP|Dosagem de TGO|TGO|18|U/L|0 a 40
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|89|µL|50 a 500
+204038|17/02/2020|HOSP|Dosagem de TGP|TGP|11|U/L|10 a 50
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Basófilos #|9|µL|0 a 100
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1728|µL|900 a 2900
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|4670|µL|3500 a 10500
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Monócitos|7.3|%|
+204038|17/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos|4.67|x10^3/uL|
+204038|17/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.9|%|
+204038|17/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+204038|22/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|83|%|70 a 100
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|CHCM|31.4|g/dL|31.0 a 36.0
+204038|22/05/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+204038|22/05/2020|HOSP|Diferencial Manual|Segmentados|40.0|%|
+204038|22/05/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.46|NULL|0.90 a 1.25
+204038|22/05/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+204038|22/05/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|234|U/L|135 a 225
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Eosinófilos|0.0|%|
+204038|22/05/2020|HOSP|Dosagem de TGO|TGO|18|U/L|0 a 40
+204038|22/05/2020|HOSP|TTPA|TTPA segundos|41.4|s|25.6 a 35.5
+204038|22/05/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+204038|22/05/2020|HOSP|Diferencial Manual|Segmentados #|1080|µL|1700 a 8000
+204038|22/05/2020|HOSP|Dosagem de Potássio|Potássio|4.7|mEq/L|3.5 a 5.0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|31.2|mm Hg|25.0 a 40.0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+204038|22/05/2020|HOSP|Diferencial Manual|Eosinófilos  #|0|µL|50 a 500
+204038|22/05/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+204038|22/05/2020|HOSP|Tempo de Protrombina|RNI|1.12|NULL|0.96 a 1.30
+204038|22/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.6|fL|6.5 a 15.0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase|18|U/L|13 a 60
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|118|x10^3/uL|
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|2.70|x10^3/uL|
+204038|22/05/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.212|NULL|7.320 a 7.430
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Dosagem de CPK|CPK|87|U/L|20 a 200
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+204038|22/05/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|HCM|26.8|pg|26.0 a 34.0
+204038|22/05/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|12.3|mmol/L|25.0 a 29.0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 840
+204038|22/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.2|mg/dL|0.1 a 1.2
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|VCM|85.2|fL|81.0 a 95.0
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|RDW|13.5|%|11.5 a 16.5
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 100
+204038|22/05/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|7.6|g/dL|13.5 a 17.5
+204038|22/05/2020|HOSP|Diferencial Manual|Monócitos|10.0|%|
+204038|22/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+204038|22/05/2020|HOSP|Dosagem de D-Dímero|D-Dímero|1009|ng/mL FEU|<=500
+204038|22/05/2020|HOSP|Dosagem de Uréia|Uréia|88|mg/dL|17 a 49
+204038|22/05/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+204038|22/05/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|-15.2|mEq/L|-4.0 a 4.0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Dosagem de TGP|TGP|10|U/L|0 a 41
+204038|22/05/2020|HOSP|Dosagem de Gama GT|Gama GT|132|U/L|8 a 61
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|11.3|mEq/L|22.0 a 29.0
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|24.2|%|39.0 a 50.0
+204038|22/05/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|54.7|%|40.0 a 70.0
+204038|22/05/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Monócitos #|270|µL|300 a 900
+204038|22/05/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.84|x10^6/uL|4.30 a 5.70
+204038|22/05/2020|HOSP|Diferencial Manual|Linfócitos #|1242|µL|900 a 2900
+204038|22/05/2020|HOSP|Diferencial Manual|Linfócitos|46.0|%|
+204038|22/05/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase| |NULL|
+204038|22/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|3.67|mg/dL|0.70 a 1.20
+204038|22/05/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|28.8|mm Hg|41.0 a 50.0
+204038|22/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|134|U/L|40 a 129
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+204038|22/05/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+204038|22/05/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+204038|22/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|2700|µL|3500 a 10500
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|2.79|x10^6/uL|4.30 a 5.70
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.5|%|
+204038|29/05/2020|HOSP|Dosagem de TGO|TGO|12|U/L|<=40
+204038|29/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+204038|29/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|121|U/L|40 a 129
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.4|fL|6.5 a 15.0
+204038|29/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|2.23|AU/ml|<=0.90
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|18|µL|0 a 100
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|23.1|%|39.0 a 50.0
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|18|µL|50 a 500
+204038|29/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Reagente|NULL|Não Reagente
+204038|29/05/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|34.3|mm Hg|41.0 a 50.0
+204038|29/05/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|-9.6|mEq/L|-4.0 a 4.0
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|40.2|%|
+204038|29/05/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|22.6|mm Hg|25.0 a 40.0
+204038|29/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|2.86|mg/dL|0.70 a 1.20
+204038|29/05/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|30.4|%|40.0 a 70.0
+204038|29/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|24.32|AU/ml|<=0.90
+204038|29/05/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|17.1|mmol/L|25.0 a 29.0
+204038|29/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|290|mg/dL|70 a 99
+204038|29/05/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|16.0|mEq/L|22.0 a 29.0
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1471|µL|900 a 2900
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|311|µL|300 a 900
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.5|%|
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|3.66|x10^3/uL|
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|7.5|g/dL|13.5 a 17.5
+204038|29/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.1|mg/dL|0.1 a 1.2
+204038|29/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Reagente|NULL|Não Reagente
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|1841|µL|1700 a 8000
+204038|29/05/2020|HOSP|Dosagem de TGP|TGP|8|U/L|10 a 50
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|50.3|%|
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|3660|µL|3500 a 10500
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|RDW|14.3|%|11.5 a 16.5
+204038|29/05/2020|HOSP|Dosagem de Potássio|Potássio|NOVA COLETA|mEq/L|3.5 a 5.0
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|196|x10^3/uL|
+204038|29/05/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+204038|29/05/2020|HOSP|Tempo de Protrombina|RNI|1.07|NULL|0.96 a 1.30
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|HCM|26.9|pg|26.0 a 34.0
+204038|29/05/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.284|NULL|7.320 a 7.430
+204038|29/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|90|%|70 a 100
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|VCM|82.8|fL|81.0 a 95.0
+204038|29/05/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+204038|29/05/2020|HOSP|Dosagem de Sódio|Sódio|140|mEq/L|135 a 145
+204038|29/05/2020|HOSP|Dosagem de Uréia|Uréia|80|mg/dL|17 a 49
+204038|29/05/2020|HOSP|Hemograma com Plaquetas|CHCM|32.5|g/dL|31.0 a 36.0
+204038|29/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.0|mg/dL|0.0 a 0.3
+204038|29/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+204078|02/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204081|18/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204087|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204099|25/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204210|01/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204210|17/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.06|AU/ml|<=0.90
+204210|17/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.03|AU/ml|<=0.90
+204261|18/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204356|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204440|09/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204549|04/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204549|16/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204591|12/02/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|28.8|mEq/L|22.0 a 29.0
+204591|12/02/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|36.2|%|40.0 a 70.0
+204591|12/02/2020|HOSP|Dosagem de Sódio|Sódio|143|mEq/L|135 a 145
+204591|12/02/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|3.2|mEq/L|-4.0 a 4.0
+204591|12/02/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|22.7|mm Hg|25.0 a 40.0
+204591|12/02/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+204591|12/02/2020|HOSP|Dosagem de Potássio|Potássio|3.9|mEq/L|3.5 a 5.0
+204591|12/02/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.394|NULL|7.320 a 7.430
+204591|12/02/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|30.4|mmol/L|25.0 a 29.0
+204591|12/02/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|47.6|mm Hg|41.0 a 50.0
+204591|14/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza B,  teste rápido|Negativo|NULL|Negativo
+204591|14/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204591|14/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza A, teste rápido|Negativo|NULL|Negativo
+204591|25/01/2020|HOSP|Dosagem de Cálcio Iônico|Cálcio Iônico mmol/L|1.23|mmol/L|1.14 a 1.31
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Plaquetas|75|x10^3/uL|
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|VCM|92.0|fL|81.0 a 95.0
+204591|25/01/2020|HOSP|Dosagem de Magnésio|Magnésio|1.9|mEq/L|1.4 a 1.9
+204591|25/01/2020|HOSP|Urina Tipo I|pH|8.0|NULL|4.6 a 8.0
+204591|25/01/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+204591|25/01/2020|HOSP|Dosagem de Potássio|Potássio|3.3|mEq/L|3.5 a 5.0
+204591|25/01/2020|HOSP|Urina Tipo I|Hemácias Urina|3000|/mL|<=10000
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos|3.82|x10^3/uL|
+204591|25/01/2020|HOSP|Dosagem de Uréia|Uréia|27|mg/dL|17 a 49
+204591|25/01/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.13|mg/dL|0.70 a 1.20
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|92|µL|50 a 500
+204591|25/01/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.4|%|
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Hematócrito|41.5|%|39.0 a 50.0
+204591|25/01/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+204591|25/01/2020|HOSP|Urina Tipo I|Leucócitos Urina|4000|/mL|<=10000
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos|52.6|%|
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.51|x10^6/uL|4.30 a 5.70
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|CHCM|35.7|g/dL|31.0 a 36.0
+204591|25/01/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+204591|25/01/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+204591|25/01/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.62|g/dL|3.50 a 5.20
+204591|25/01/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|3820|µL|3500 a 10500
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Basófilos #|11|µL|0 a 100
+204591|25/01/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+204591|25/01/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|40.8|%|
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2009|µL|900 a 2900
+204591|25/01/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|HCM|32.8|pg|26.0 a 34.0
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Monócitos|3.9|%|
+204591|25/01/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Monócitos #|149|µL|300 a 900
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.1|fL|6.5 a 15.0
+204591|25/01/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+204591|25/01/2020|HOSP|Urina Tipo I|Densidade|1012|NULL|1015 a 1025
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.8|g/dL|13.5 a 17.5
+204591|25/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|1559|µL|1700 a 8000
+204591|25/01/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+204591|25/01/2020|HOSP|Hemograma com Plaquetas|RDW|13.1|%|11.5 a 16.5
+204591|25/01/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+204591|25/01/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+204606|09/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204653|06/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204775|15/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204775|15/03/2020|HOSP|Pesquisa de Estreptococos do Grupo A|Strepto A|Negativo|NULL|Negativo
+204775|18/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.2|mg/dL|0.1 a 0.9
+204775|18/02/2020|HOSP|Tempo de Protrombina|TP, Atividade|95|%|70 a 100
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|VCM|70.4|fL|82.0 a 98.0
+204775|18/02/2020|HOSP|Dosagem de Potássio|Potássio|3.8|mEq/L|3.5 a 5.0
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Hematócrito|33.7|%|35.0 a 45.0
+204775|18/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.79|x10^6/uL|3.90 a 5.00
+204775|18/02/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|59|U/L|35 a 104
+204775|18/02/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.51|g/dL|3.50 a 5.20
+204775|18/02/2020|HOSP|Dosagem de Fósforo|Fósforo|3.4|mg/dL|2.5 a 4.5
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.1|%|
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5190|µL|3500 a 10500
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|RDW|15.3|%|11.5 a 16.5
+204775|18/02/2020|HOSP|Dosagem de Magnésio|Magnésio|1.5|mEq/L|1.3 a 2.1
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos|37.2|%|
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.8|%|
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1931|µL|900 a 2900
+204775|18/02/2020|HOSP|Dosagem de Ferritina|Ferritina|5.50|ng/mL|12.00 a 266.00
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|CHCM|31.5|g/dL|31.0 a 36.0
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|51.6|%|
+204775|18/02/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12|163|pg/mL|197 a 771
+204775|18/02/2020|HOSP|Dosagem de Uréia|Uréia|43|mg/dL|17 a 49
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Monócitos #|420|µL|300 a 900
+204775|18/02/2020|HOSP|TTPA|Relação (Paciente/Normal)|0.77|NULL|0.90 a 1.25
+204775|18/02/2020|HOSP|Dosagem de TGP|TGP|16|U/L|10 a 35
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|11.3|fL|6.5 a 15.0
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|HCM|22.1|pg|26.0 a 34.0
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.19|x10^3/uL|
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|109|µL|50 a 500
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Plaquetas|266|x10^3/uL|
+204775|18/02/2020|HOSP|Contagem dos Reticulócitos|Hemácias|4.79|x10^6/uL|3.90 a 5.00
+204775|18/02/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.58|mg/dL|0.50 a 0.90
+204775|18/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+204775|18/02/2020|HOSP|Dosagem de TGO|TGO|18|U/L|0 a 32
+204775|18/02/2020|HOSP|TTPA|TTPA segundos|23.6|s|27.5 a 38.2
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2678|µL|1700 a 8000
+204775|18/02/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|94|mg/dL|70 a 99
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Basófilos #|42|µL|0 a 100
+204775|18/02/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.3|mg/dL|0.1 a 1.2
+204775|18/02/2020|HOSP|Tempo de Protrombina|RNI|1.03|NULL|0.96 a 1.30
+204775|18/02/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|212|U/L|135 a 214
+204775|18/02/2020|HOSP|Dosagem de Gama GT|Gama GT|12|U/L|5 a 36
+204775|18/02/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|10.6|g/dL|12.0 a 15.5
+204775|18/02/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12| |NULL|
+204775|18/02/2020|HOSP|Dosagem de Sódio|Sódio|141|mEq/L|135 a 145
+204775|18/02/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.1|%|
+204775|18/02/2020|HOSP|Contagem dos Reticulócitos|Hematócrito|33.7|%|35.0 a 45.0
+204875|09/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204932|27/02/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204944|01/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.85|AU/ml|<=0.90
+204944|01/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Reagente|NULL|Não Reagente
+204944|01/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|2.28|AU/ml|<=0.90
+204944|01/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+204944|01/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204944|07/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204944|08/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+204944|20/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+204990|09/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205109|11/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|0.2|%|
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|5451|µL|1700 a 8000
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|CHCM|34.4|g/dL|31.0 a 36.0
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|86.8|%|
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6280|µL|3500 a 10500
+205170|15/03/2020|HOSP|Dosagem de Uréia|Uréia|40|mg/dL|17 a 49
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|521|µL|900 a 2900
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|4.5|%|
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|8.3|%|
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.7|g/dL|13.5 a 17.5
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.28|x10^3/uL|
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|195|x10^3/uL|
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.2|%|
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|HCM|31.3|pg|26.0 a 34.0
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.9|%|39.0 a 50.0
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|283|µL|300 a 900
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.06|x10^6/uL|4.30 a 5.70
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.4|fL|6.5 a 15.0
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|13|µL|0 a 100
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|VCM|90.9|fL|81.0 a 95.0
+205170|15/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205170|15/03/2020|HOSP|Hemograma com Plaquetas|RDW|12.9|%|11.5 a 16.5
+205170|15/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|13|µL|50 a 500
+205181|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205196|28/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|HCM|32.3|pg|26.0 a 34.0
+205197|04/03/2020|HOSP|Dosagem de CPK|CPK|356|U/L|20 a 200
+205197|04/03/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+205197|04/03/2020|HOSP|Dosagem de TGO|TGO|27|U/L|0 a 40
+205197|04/03/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|96|mg/dL|70 a 99
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|10.3|%|
+205197|04/03/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|VCM|91.6|fL|81.0 a 95.0
+205197|04/03/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|6582|µL|1700 a 8000
+205197|04/03/2020|HOSP|Urina Tipo I|Leucócitos Urina|<1000|/mL|<=10000
+205197|04/03/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+205197|04/03/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|79|U/L|40 a 129
+205197|04/03/2020|HOSP|Dosagem de Potássio|Potássio|4.3|mEq/L|3.5 a 5.0
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|189|µL|50 a 500
+205197|04/03/2020|HOSP|Urina Tipo I|Densidade|1011|NULL|1015 a 1025
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|975|µL|300 a 900
+205197|04/03/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|9470|µL|3500 a 10500
+205197|04/03/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Dosagem de Fósforo|Fósforo|4.0|mg/dL|2.5 a 4.5
+205197|04/03/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.8|fL|6.5 a 15.0
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.0|%|
+205197|04/03/2020|HOSP|Dosagem de Magnésio|Magnésio|1.8|mEq/L|1.3 a 2.1
+205197|04/03/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+205197|04/03/2020|HOSP|Dosagem de Insulina|Dosagem de Glicose|96|NULL|
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|RDW|12.4|%|11.5 a 16.5
+205197|04/03/2020|HOSP|Dosagem de TGP|TGP|25|U/L|10 a 50
+205197|04/03/2020|HOSP|Dosagem de Gama GT|Gama GT|21|U/L|8 a 61
+205197|04/03/2020|HOSP|Urina Tipo I|Hemácias Urina|12000|/mL|<=10000
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|16.1|g/dL|13.5 a 17.5
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|9.47|x10^3/uL|
+205197|04/03/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+205197|04/03/2020|HOSP|Dosagem de Uréia|Uréia|57|mg/dL|17 a 49
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|69.5|%|
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.5|%|
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|17.5|%|
+205197|04/03/2020|HOSP|Dosagem de Sódio|Sódio|141|mEq/L|135 a 145
+205197|04/03/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+205197|04/03/2020|HOSP|Dosagem de Cálcio Iônico|Cálcio Iônico mmol/L|1.24|mmol/L|1.14 a 1.31
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|255|x10^3/uL|
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|CHCM|35.2|g/dL|31.0 a 36.0
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1657|µL|900 a 2900
+205197|04/03/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|89|mg/dL|70 a 99
+205197|04/03/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.28|mg/dL|0.70 a 1.20
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.99|x10^6/uL|4.30 a 5.70
+205197|04/03/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+205197|04/03/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Presente|NULL|Ausente
+205197|04/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|45.7|%|39.0 a 50.0
+205197|04/03/2020|HOSP|Dosagem de Ferritina|Ferritina|487.00|ng/mL|22.00 a 491.00
+205197|04/03/2020|HOSP|Urina Tipo I|Cor|Amarela clara|NULL|Amarela
+205197|04/03/2020|HOSP|Urina Tipo I|pH|6.5|NULL|4.6 a 8.0
+205197|04/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|47|µL|0 a 100
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|HCM|32.2|pg|26.0 a 34.0
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|9020|µL|3500 a 10500
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|VCM|90.5|fL|81.0 a 95.0
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|9.02|x10^3/uL|
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|9.2|%|
+205197|28/05/2020|HOSP|Teste rápido Coronavirus COVID19 IgG/IgM|COVID19 IgG, teste rápido|Não Reagente|NULL|Não Reagente
+205197|28/05/2020|HOSP|Teste rápido Coronavirus COVID19 IgG/IgM|COVID19 IgM, teste rápido|Não Reagente|NULL|Não Reagente
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.84|x10^6/uL|4.30 a 5.70
+205197|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.4|mg/dL|0.1 a 1.2
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.6|fL|6.5 a 15.0
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|62.1|%|
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2336|µL|900 a 2900
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|72|µL|0 a 100
+205197|28/05/2020|HOSP|Dosagem de Uréia|Uréia|38|mg/dL|17 a 49
+205197|28/05/2020|HOSP|Dosagem de Gama GT|Gama GT|22|U/L|8 a 61
+205197|28/05/2020|HOSP|Dosagem de TGP|TGP|24|U/L|0 a 41
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|CHCM|35.6|g/dL|31.0 a 36.0
+205197|28/05/2020|HOSP|Tempo de Protrombina|TP, Atividade|86|%|70 a 100
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|RDW|12.4|%|11.5 a 16.5
+205197|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.2|mg/dL|0.0 a 0.3
+205197|28/05/2020|HOSP|Dosagem de TGO|TGO|17|U/L|0 a 40
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.6|g/dL|13.5 a 17.5
+205197|28/05/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.2|mg/dL|0.1 a 0.9
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.8|%|
+205197|28/05/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|73|U/L|40 a 129
+205197|28/05/2020|HOSP|Dosagem de Desidrogenase Láctica|Dehidrogenase Láctica|169|U/L|135 a 225
+205197|28/05/2020|HOSP|TTPA|TTPA segundos|31.1|s|25.6 a 35.5
+205197|28/05/2020|HOSP|Dosagem de CPK|CPK|171|U/L|20 a 200
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|237|x10^3/uL|
+205197|28/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|2.0|%|
+205197|28/05/2020|HOSP|Tempo de Protrombina|RNI|1.09|NULL|0.96 a 1.30
+205197|28/05/2020|HOSP|Contagem de Plaquetas|Volume Médio Plaquetário|9.6|fL|6.5 a 15.0
+205197|28/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|43.8|%|39.0 a 50.0
+205197|28/05/2020|HOSP|Dosagem de D-Dímero|D-Dímero|<215|ng/mL FEU|<=500
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|25.9|%|
+205197|28/05/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.10|NULL|0.90 a 1.25
+205197|28/05/2020|HOSP|Contagem de Plaquetas|Plaquetas|237|x10^3/uL|
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|5601|µL|1700 a 8000
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|180|µL|50 a 500
+205197|28/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|830|µL|300 a 900
+205258|12/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205420|22/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205674|02/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+205728|06/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+205728|13/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+205728|20/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+205728|23/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+205728|27/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+205728|27/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|9.70|AU/ml|<=0.90
+205728|27/04/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.55|AU/ml|<=0.90
+205881|16/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206125|16/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206210|13/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206419|12/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206458|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+206458|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.69|AU/ml|<=0.90
+206458|08/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206458|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.04|AU/ml|<=0.90
+206458|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+206458|13/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206458|14/01/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+206458|14/01/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Total|0.2|mg/dL|0.1 a 1.2
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Monócitos #|482|µL|300 a 900
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.1|fL|6.5 a 15.0
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos|35.2|%|
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Basófilos #|71|µL|0 a 100
+206458|14/01/2020|HOSP|Dosagem de TGP|TGP|39|U/L|10 a 35
+206458|14/01/2020|HOSP|Dosagem de Gama GT|Gama GT|43|U/L|5 a 36
+206458|14/01/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Dosagem de Testosterona Total e Livre|Albumina|4.35|g/dL|3.50 a 5.20
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|RDW|12.2|%|11.5 a 16.5
+206458|14/01/2020|HOSP|TTPA|TTPA segundos|38.2|s|27.5 a 38.2
+206458|14/01/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Indireta|0.1|mg/dL|0.1 a 0.9
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5480|µL|3500 a 10500
+206458|14/01/2020|HOSP|Dosagem de Potássio|Potássio|4.6|mEq/L|3.5 a 5.0
+206458|14/01/2020|HOSP|Dosagem de TGO|TGO|37|U/L|0 a 32
+206458|14/01/2020|HOSP|Dosagem de Uréia|Uréia|24|mg/dL|17 a 49
+206458|14/01/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Dosagem de CPK|CPK|34|U/L|20 a 180
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1929|µL|900 a 2900
+206458|14/01/2020|HOSP|Urina Tipo I|Aspecto|Límpido|NULL|Límpido
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Basófilos|1.3|%|
+206458|14/01/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.65|mg/dL|0.50 a 0.90
+206458|14/01/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Urina Tipo I|pH|5.5|NULL|4.6 a 8.0
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|HCM|31.5|pg|26.0 a 34.0
+206458|14/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|81|mg/dL|70 a 99
+206458|14/01/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+206458|14/01/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.6|%|
+206458|14/01/2020|HOSP|Urina Tipo I|Densidade|1013|NULL|1015 a 1025
+206458|14/01/2020|HOSP|Dosagem de Fósforo|Fósforo|3.7|mg/dL|2.5 a 4.5
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|88|µL|50 a 500
+206458|14/01/2020|HOSP|Tempo de Protrombina|RNI|1.00|NULL|0.96 a 1.30
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|2822|µL|1700 a 8000
+206458|14/01/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12|3113|pg/mL|197 a 771
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Plaquetas|355|x10^3/uL|
+206458|14/01/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+206458|14/01/2020|HOSP|Dosagem de Bilirrubina Total e Frações|Bilirrubina Direta|0.1|mg/dL|0.0 a 0.3
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Hemácias|3.84|x10^6/uL|3.90 a 5.00
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|VCM|93.8|fL|82.0 a 98.0
+206458|14/01/2020|HOSP|Dosagem de Magnésio|Magnésio|1.8|mEq/L|1.3 a 2.1
+206458|14/01/2020|HOSP|Tempo de Protrombina|TP, Atividade|100|%|70 a 100
+206458|14/01/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|51.5|%|
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.1|g/dL|12.0 a 15.5
+206458|14/01/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+206458|14/01/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+206458|14/01/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.8|%|
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.48|x10^3/uL|
+206458|14/01/2020|HOSP|Urina Tipo I|Leucócitos Urina|2000|/mL|<=10000
+206458|14/01/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12| |NULL|
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|Hematócrito|36.0|%|35.0 a 45.0
+206458|14/01/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Ausente|NULL|Ausente
+206458|14/01/2020|HOSP|Hemograma com Plaquetas|CHCM|33.6|g/dL|31.0 a 36.0
+206458|14/01/2020|HOSP|TTPA|Relação (Paciente/Normal)|1.25|NULL|0.90 a 1.25
+206458|14/01/2020|HOSP|Dosagem de D-Dímero|D-Dímero|<215|ng/mL FEU|<=500
+206458|14/01/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+206458|14/01/2020|HOSP|Urina Tipo I|Proteína|Não Detectado|NULL|Não Detectado
+206458|14/01/2020|HOSP|Dosagem de Ferritina|Ferritina|197.00|ng/mL|
+206458|14/01/2020|HOSP|Dosagem de Fosfatase Alcalina|Fosfatase Alcalina|66|U/L|35 a 104
+206458|14/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+206458|14/01/2020|HOSP|Urina Tipo I|Hemácias Urina|2000|/mL|<=10000
+206458|22/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+206458|22/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.58|AU/ml|<=0.90
+206458|22/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.01|AU/ml|<=0.90
+206458|22/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206458|22/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+206509|01/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+206509|12/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206725|09/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206779|13/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+206779|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.03|AU/ml|<=0.90
+206779|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+206779|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.71|AU/ml|<=0.90
+206779|13/05/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|CHCM|33.8|g/dL|31.0 a 36.0
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|14.0|g/dL|13.5 a 17.5
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|VCM|90.4|fL|81.0 a 95.0
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.0|%|
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|7.32|x10^3/uL|
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|7320|µL|3500 a 10500
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|5417|µL|1700 a 8000
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.58|x10^6/uL|4.30 a 5.70
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|41.4|%|39.0 a 50.0
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1318|µL|900 a 2900
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.7|%|
+207502|26/05/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.99|mg/dL|0.70 a 1.20
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|RDW|12.6|%|11.5 a 16.5
+207502|26/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|HCM|30.6|pg|26.0 a 34.0
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.5|fL|6.5 a 15.0
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Basófilos #|22|µL|0 a 100
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Linfócitos|18.0|%|
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|73|µL|50 a 500
+207502|26/05/2020|HOSP|Dosagem de Uréia|Uréia|44|mg/dL|17 a 49
+207502|26/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|192|x10^3/uL|
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Monócitos #|490|µL|300 a 900
+207502|26/05/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|74.0|%|
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+207581|08/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+207804|02/01/2020|HOSP|Dosagem de Uréia|Uréia|34|mg/dL|17 a 49
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos|32.0|%|
+207804|02/01/2020|HOSP|Gasometria Venosa|CO2 Total (gasometria venosa)|29.2|mmol/L|25.0 a 29.0
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Basófilos #|17|µL|0 a 100
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|16.2|g/dL|13.5 a 17.5
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1830|µL|900 a 2900
+207804|02/01/2020|HOSP|Gasometria Venosa|HCO3 (gasometria venosa)|27.7|mEq/L|22.0 a 29.0
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|80|µL|50 a 500
+207804|02/01/2020|HOSP|Gasometria Venosa|pCO2 (gasometria venosa)|46.4|mm Hg|41.0 a 50.0
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Monócitos|7.7|%|
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Hemácias|5.48|x10^6/uL|4.30 a 5.70
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|CHCM|34.5|g/dL|31.0 a 36.0
+207804|02/01/2020|HOSP|Gasometria Venosa|Fio2 (gasometria venosa)|21|NULL|
+207804|02/01/2020|HOSP|Gasometria Venosa|pO2 (gasometria venosa)|26.8|mm Hg|25.0 a 40.0
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Plaquetas|208|x10^3/uL|
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.5|fL|6.5 a 15.0
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Hematócrito|47.0|%|39.0 a 50.0
+207804|02/01/2020|HOSP|Gasometria Venosa|BE (gasometria venosa)|2.4|mEq/L|-4.0 a 4.0
+207804|02/01/2020|HOSP|Gasometria Venosa|Saturação da Hb (gasometria venosa)|49.2|%|40.0 a 70.0
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos|5.72|x10^3/uL|
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.4|%|
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Monócitos #|440|µL|300 a 900
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|HCM|29.6|pg|26.0 a 34.0
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3352|µL|1700 a 8000
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|58.6|%|
+207804|02/01/2020|HOSP|Gasometria Venosa|pH (gasometria venosa)|7.392|NULL|7.320 a 7.430
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|5720|µL|3500 a 10500
+207804|02/01/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|RDW|12.7|%|11.5 a 16.5
+207804|02/01/2020|HOSP|Hemograma com Plaquetas|VCM|85.8|fL|81.0 a 95.0
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|10.2|fL|6.5 a 15.0
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.98|x10^6/uL|4.30 a 5.70
+207804|03/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|108|mg/dL|70 a 99
+207804|03/01/2020|HOSP|Dosagem de Uréia|Uréia|35|mg/dL|17 a 49
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|2428|µL|900 a 2900
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|VCM|87.3|fL|81.0 a 95.0
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Linfócitos|36.4|%|
+207804|03/01/2020|HOSP|Dosagem de TGP|TGP|36|U/L|10 a 50
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos|6.67|x10^3/uL|
+207804|03/01/2020|HOSP|Dosagem de CreatiNINA|Creatinina|0.89|mg/dL|0.70 a 1.20
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|53.4|%|
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Monócitos|8.2|%|
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.1|%|
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.8|%|
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Plaquetas|231|x10^3/uL|
+207804|03/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|6670|µL|3500 a 10500
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|15.0|g/dL|13.5 a 17.5
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Basófilos #|7|µL|0 a 100
+207804|03/01/2020|HOSP|Dosagem de TGO|TGO|24|U/L|0 a 40
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|3562|µL|1700 a 8000
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|HCM|30.1|pg|26.0 a 34.0
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|Hematócrito|43.5|%|39.0 a 50.0
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|CHCM|34.5|g/dL|31.0 a 36.0
+207804|03/01/2020|HOSP|Hemograma com Plaquetas|RDW|12.7|%|11.5 a 16.5
+207804|03/01/2020|HOSP|Dosagem de Gama GT|Gama GT|19|U/L|8 a 61
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Monócitos #|547|µL|300 a 900
+207804|03/01/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|120|µL|50 a 500
+207804|12/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+207804|19/01/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12| |NULL|
+207804|19/01/2020|HOSP|Dosagem de Vitamina B12|Dosagem de Vitamina B12|718|pg/mL|197 a 771
+207804|19/01/2020|HOSP|Dosagem de Proteínas Totais e Frações|Albumina|4.33|g/dL|3.50 a 5.20
+207804|19/01/2020|HOSP|Dosagem de Gama GT|Gama GT|22|U/L|8 a 61
+207804|19/01/2020|HOSP|Dosagem de Potássio|Potássio|3.9|mEq/L|3.5 a 5.0
+207804|19/01/2020|HOSP|Dosagem de Fósforo|Fósforo|3.4|mg/dL|2.5 a 4.5
+207804|19/01/2020|HOSP|Dosagem de Magnésio|Magnésio|1.6|mEq/L|1.3 a 2.1
+207804|19/01/2020|HOSP|Dosagem de TGP|TGP|66|U/L|10 a 50
+207804|19/01/2020|HOSP|Dosagem de CreatiNINA|Creatinina|1.04|mg/dL|0.70 a 1.20
+207804|19/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose| |NULL|
+207804|19/01/2020|HOSP|Dosagem de TGO|TGO|36|U/L|0 a 40
+207804|19/01/2020|HOSP|Dosagem de Sódio|Sódio|139|mEq/L|135 a 145
+207804|19/01/2020|HOSP|Dosagem de Uréia|Uréia|33|mg/dL|17 a 49
+207804|19/01/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase|24|U/L|13 a 60
+207804|19/01/2020|HOSP|Dosagem de Lipase|Dosagem de Lipase| |NULL|
+207804|19/01/2020|HOSP|Dosagem de Glicose|Dosagem de Glicose|109|mg/dL|70 a 99
+207892|19/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+208237|26/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+209258|11/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+211832|09/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Detectado|NULL|Não detectado
+212850|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.01|AU/ml|<=0.90
+212850|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+212850|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+212850|02/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.55|AU/ml|<=0.90
+212850|26/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|RDW|11.8|%|12.0 a 14.5
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos|7.42|x10^3/uL|
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|7420|µL|5000 a 14500
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|HCM|27.0|pg|24.0 a 32.0
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Hematócrito|34.7|%|33.0 a 43.0
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Monócitos|6.3|%|
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Monócitos #|467|µL|0 a 800
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|CHCM|34.6|g/dL|32.0 a 36.0
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|VCM|78.0|fL|74.0 a 89.0
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos|1.2|%|
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Basófilos #|22|µL|0 a 200
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.0|g/dL|11.0 a 14.5
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.4|fL|6.5 a 15.0
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos #|1951|µL|1500 a 8500
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Eosinófilos  #|89|µL|0 a 650
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.45|x10^6/uL|3.90 a 5.30
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos  #|4890|µL|1500 a 8500
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Basófilos|0.3|%|
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Neutrófilos|65.9|%|
+215350|15/03/2020|HOSP|Hemograma Contagem Auto|Linfócitos|26.3|%|
+215350|15/03/2020|HOSP|Hemograma com Plaquetas|Plaquetas|300|x10^3/uL|
+215350|20/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+216920|03/01/2020|HOSP|Urina Tipo I|Leveduras|Ausentes|NULL|Ausentes
+216920|03/01/2020|HOSP|Urina Tipo I|Corpos cetônicos|Ausentes|NULL|Ausentes
+216920|03/01/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza A, teste rápido|Negativo|NULL|Negativo
+216920|03/01/2020|HOSP|Urina Tipo I|Aspecto|Ligeiramente Turvo|NULL|Límpido
+216920|03/01/2020|HOSP|Urina Tipo I|Hemácias Urina|204000|/mL|<=10000
+216920|03/01/2020|HOSP|Urina Tipo I|Densidade|1025|NULL|1015 a 1025
+216920|03/01/2020|HOSP|Urina Tipo I|Esterase|Ausente|NULL|Ausente
+216920|03/01/2020|HOSP|Urina Tipo I|Hemoglobina Urina|Presente|NULL|Ausente
+216920|03/01/2020|HOSP|Pesquisa de Estreptococos do Grupo A|Strepto A|Negativo|NULL|Negativo
+216920|03/01/2020|HOSP|Urina Tipo I|Açúcar|Ausente|NULL|Ausente
+216920|03/01/2020|HOSP|Urina Tipo I|pH|5.0|NULL|4.6 a 8.0
+216920|03/01/2020|HOSP|Urina Tipo I|Cilindros hialinos|Ausentes|NULL|Ausentes
+216920|03/01/2020|HOSP|Urina Tipo I|Proteína|2+ (~100 mg/dL)|NULL|Não Detectado
+216920|03/01/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza B,  teste rápido|Negativo|NULL|Negativo
+216920|03/01/2020|HOSP|Urina Tipo I|Cor|Amarela|NULL|Amarela
+216920|03/01/2020|HOSP|Urina Tipo I|Cilindros granulosos|Ausentes|NULL|Ausentes
+216920|03/01/2020|HOSP|Urina Tipo I|Leucócitos Urina|12000|/mL|<=10000
+216920|03/01/2020|HOSP|Urina Tipo I|Cristais|Ausentes|NULL|Ausentes
+216920|03/01/2020|HOSP|Urina Tipo I|Urobilinogênio|Normal|NULL|Normal
+216920|03/01/2020|HOSP|Urina Tipo I|Nitrito|Negativo|NULL|Negativo
+216920|03/01/2020|HOSP|Urina Tipo I|Pigmentos biliares|Ausentes|NULL|Ausentes
+216920|18/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+216920|31/05/2020|HOSP|Diferencial Manual|Promielócitos #|0|µL|0 a 0
+216920|31/05/2020|HOSP|Diferencial Manual|Eosinófilos|4.0|%|
+216920|31/05/2020|HOSP|Diferencial Manual|Eosinófilos  #|418|µL|0 a 650
+216920|31/05/2020|HOSP|Dosagem de Cálcio Iônico|Cálcio Iônico mmol/L|1.27|mmol/L|1.14 a 1.31
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|RDW|12.2|%|12.0 a 14.5
+216920|31/05/2020|HOSP|Diferencial Manual|Monócitos #|836|µL|0 a 800
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Plaquetas|302|x10^3/uL|
+216920|31/05/2020|HOSP|Diferencial Manual|Monócitos|8.0|%|
+216920|31/05/2020|HOSP|Diferencial Manual|Bastonetes #|0|µL|0 a 950
+216920|31/05/2020|HOSP|Diferencial Manual|Mieloblastos|0.0|%|
+216920|31/05/2020|HOSP|Diferencial Manual|Mieloblastos #|0|µL|0 a 0
+216920|31/05/2020|HOSP|Diferencial Manual|Bastonestes|0.0|%|
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos #|10450|µL|5000 a 14500
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|CHCM|36.3|g/dL|32.0 a 36.0
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Leucócitos|10.45|x10^3/uL|
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Hemácias|4.53|x10^6/uL|3.90 a 5.30
+216920|31/05/2020|HOSP|Diferencial Manual|Metamielócitos|0.0|%|
+216920|31/05/2020|HOSP|Diferencial Manual|Metamielócitos #|0|µL|0 a 0
+216920|31/05/2020|HOSP|Diferencial Manual|Segmentados|31.0|%|
+216920|31/05/2020|HOSP|Diferencial Manual|Basófilos #|0|µL|0 a 200
+216920|31/05/2020|HOSP|Dosagem de Ferritina|Ferritina|13.00|ng/mL|14.00 a 101.00
+216920|31/05/2020|HOSP|Diferencial Manual|Promielócitos|0.0|%|
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|HCM|27.8|pg|24.0 a 32.0
+216920|31/05/2020|HOSP|Diferencial Manual|Linfócitos #|5434|µL|1500 a 8500
+216920|31/05/2020|HOSP|Diferencial Manual|Mielócitos #|0|µL|0 a 0
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Volume Médio Plaquetário|9.2|fL|6.5 a 15.0
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|VCM|76.6|fL|74.0 a 89.0
+216920|31/05/2020|HOSP|Diferencial Manual|Segmentados #|3240|µL|1500 a 8500
+216920|31/05/2020|HOSP|Diferencial Manual|Mielócitos|0.0|%|
+216920|31/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+216920|31/05/2020|HOSP|Diferencial Manual|Linfócitos|52.0|%|
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Hemoglobina|12.6|g/dL|11.0 a 14.5
+216920|31/05/2020|HOSP|Diferencial Manual|Basófilos|0.0|%|
+216920|31/05/2020|HOSP|Hemograma com Plaquetas|Hematócrito|34.7|%|33.0 a 43.0
+217038|05/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+217503|14/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza A, teste rápido|Negativo|NULL|Negativo
+217503|14/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza B,  teste rápido|Negativo|NULL|Negativo
+217503|14/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza A, teste rápido|Positivo|NULL|Negativo
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 3|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 4|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Metapneumovírus|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusHKU1|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusNL63|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  A|H3 Detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Chlamydophila pneumoniae|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 1|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Influenza  B|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Pesquisa Rápida para Influenza A e B|Influenza B,  teste rápido|Negativo|NULL|Negativo
+217654|10/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Bordetella pertussis|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Vírus Sincicial Respiratório|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Rhinovírus/Enterovírus|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Parainfluenza 2|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Mycoplasma pneumoniae|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|CoronavírusOC43|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Adenovirus|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Inf A H1N1 2009|Não detectado|NULL|Não detectado
+217654|10/03/2020|HOSP|Painel Molecular Patogenos Respiratorios|Coronavírus229E|Não detectado|NULL|Não detectado
+217796|07/03/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+218201|23/04/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+232532|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+232532|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.67|AU/ml|<=0.90
+232532|08/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+232532|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+232532|08/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.05|AU/ml|<=0.90
+245726|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.60|AU/ml|<=0.90
+245726|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+245726|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.04|AU/ml|<=0.90
+245726|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+245726|05/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+247104|07/05/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+262747|06/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.64|AU/ml|<=0.90
+262747|06/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+262747|06/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+262747|06/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+262747|06/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.03|AU/ml|<=0.90
+264108|04/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+264108|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+264108|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+264108|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.06|AU/ml|<=0.90
+264108|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.56|AU/ml|<=0.90
+264307|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.56|AU/ml|<=0.90
+264307|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+264307|04/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+264307|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+264307|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.61|AU/ml|<=0.90
+264413|04/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+264413|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.56|AU/ml|<=0.90
+264413|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+264413|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+264413|04/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.03|AU/ml|<=0.90
+265360|05/06/2020|HOSP|PCR em tempo real para detecção de Coron|Resultado COVID-19:|Não detectado|NULL|Não detectado
+265360|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgM Interp|Não reagente|NULL|
+265360|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|COVID IgG Interp|Não reagente|NULL|
+265360|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgM, COVID19|0.77|AU/ml|<=0.90
+265360|05/06/2020|HOSP|Sorologia SARS-CoV-2/COVID19 IgG/IgM|IgG, COVID19|0.79|AU/ml|<=0.90

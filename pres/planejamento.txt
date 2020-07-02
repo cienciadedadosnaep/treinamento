@@ -1,0 +1,14 @@
+
+
+É necessário instalar latex para funcionar no windowns?
+
+
+latex 
+
+markdown
+
+bookdown 
+
+blogdown  
+
+
